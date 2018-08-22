@@ -1,3 +1,6 @@
 [submodule "project_code/trivia_game_p5"]
 	path = project_code/trivia_game_p5
 	url = https://github.com/inspectordanno/trivia_game_p5
+[submodule "project_code/craft_beer_viz"]
+	path = project_code/craft_beer_viz
+	url = https://github.com/inspectordanno/craft_beer_viz

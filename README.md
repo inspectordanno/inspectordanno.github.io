@@ -25,7 +25,3 @@ In the spirit of [now pages](https://nownownow.com/about), here's what I'm up to
 * Teaching myself piano.
 * Taking the bold step and finally putting my writing online.
 * Reading [The Book of Jonas](https://www.goodreads.com/book/show/12528627-the-book-of-jonas) by Stephen Dau.
-
-
-
-# inspectordanno.github.io
