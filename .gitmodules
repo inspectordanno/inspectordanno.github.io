@@ -1,0 +1,3 @@
+[submodule "project_code/trivia_game_p5"]
+	path = project_code/trivia_game_p5
+	url = https://github.com/inspectordanno/trivia_game_p5
