@@ -6,7 +6,7 @@ image: /assets/img/projects/hy-push-state.svg
 screenshot: /assets/img/projects/hy-push-state.svg
 links:
   - title: Website
-    url: https://inspectordanno.github.io/project_code/craft_beer_viz/dist
+    url: https://inspectordanno.github.io/project_code/craft_beer_viz/dist/index.html
   - title: Source
     url: https://github.com/qwtel/hy-push-state
 caption: Turns web pages into web apps.
