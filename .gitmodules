@@ -13,3 +13,6 @@
 [submodule "project_code/east_boston"]
 	path = project_code/east_boston
 	url = https://github.com/inspectordanno/east_boston
+[submodule "project_code/east_boston_amazon"]
+	path = project_code/east_boston_amazon
+	url = https://github.com/inspectordanno/east_boston_amazon
