@@ -4,3 +4,6 @@
 [submodule "project_code/craft_beer_viz"]
 	path = project_code/craft_beer_viz
 	url = https://github.com/inspectordanno/craft_beer_viz
+[submodule "project_code/ballpit_p5"]
+	path = project_code/ballpit_p5
+	url = https://github.com/inspectordanno/ballpit_p5
