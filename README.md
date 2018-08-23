@@ -19,9 +19,8 @@ I'm a firm believer in the power of words. Writing is my therapy.
 I also love teaching!
 
 ## What I'm Doing Now (Updated 8-19-18)
-In the spirit of [now pages](https://nownownow.com/about), here's what I'm up to:
 * About to start my final year of classes. I have to make a thesis. It's probably going to involve baseball.
 * Learning React from a great [course](https://www.udemy.com/react-2nd-edition/) by Andrew Mead on Udemy.
 * Teaching myself piano.
-* Taking the bold step and finally putting my writing online.
+* Starting a blog, because the writing folder on my desktop is getting a bit stale.
 * Reading [The Book of Jonas](https://www.goodreads.com/book/show/12528627-the-book-of-jonas) by Stephen Dau.

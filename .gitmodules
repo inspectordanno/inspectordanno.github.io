@@ -7,3 +7,9 @@
 [submodule "project_code/ballpit_p5"]
 	path = project_code/ballpit_p5
 	url = https://github.com/inspectordanno/ballpit_p5
+[submodule "project_code/best_mlb_players"]
+	path = project_code/best_mlb_players
+	url = https://github.com/inspectordanno/best_mlb_players
+[submodule "project_code/east_boston"]
+	path = project_code/east_boston
+	url = https://github.com/inspectordanno/east_boston
