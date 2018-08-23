@@ -243,7 +243,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack-pro
+# theme: jekyll-theme-hydejack-pro
 # remote_theme: qwtel/hydejack
 
 # SEO Tag
