@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       If Amazon HQ2 moves to East Boston, what will happen?
+title:       What will happen if Amazon HQ2 moves to East Boston?
 date:        3 Apr 2018
 screenshot:
   src:       /assets/img/caleb-george.jpg

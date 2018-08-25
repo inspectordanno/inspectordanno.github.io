@@ -8,7 +8,7 @@ screenshot:
 #     1920w:   /assets/img/projects/hyde-v2.jpg
 #     960w:    /assets/img/projects/hyde-v2@0,5x.jpg
 #     480w:    /assets/img/projects/hyde-v2@0,25x.jpg
-caption:     The greatest Major League baseball players of each decade. 
+caption:     The greatest Major League baseball players of each decade.
 description: The greatest Major League Baseball players ever, organized by decade.
 links:
   - title:   View Project

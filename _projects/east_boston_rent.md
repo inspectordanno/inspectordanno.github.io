@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       East Boston Rent Affordability
+title:       Can East Boston residents afford their rent?
 date:        27 Mar 2018
 # screenshot:
 #   src:       /assets/img/projects/hyde-v2@0,25x.jpg

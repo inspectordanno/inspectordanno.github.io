@@ -8,8 +8,8 @@ date:        23 May 2018
 #     1920w:   /assets/img/projects/hyde-v2.jpg
 #     960w:    /assets/img/projects/hyde-v2@0,5x.jpg
 #     480w:    /assets/img/projects/hyde-v2@0,25x.jpg
-caption:     An R exploration of historical New York menus
-description: An R exploration of historical New York menus
+caption:     An R exploration of historical New York menus.
+description: An R exploration of historical New York menus.
 links:
   - title:   View Project
     url:     ../../project_code/titanic/index.html

@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       U.S. State Capitals Quiz
-date:        1 Dec 2017
+date:        12 Jun 2018
 # screenshot:
 #   src:       /assets/img/projects/hyde-v2@0,25x.jpg
 #   srcset:
