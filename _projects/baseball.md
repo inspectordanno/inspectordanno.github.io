@@ -15,5 +15,5 @@ links:
     url:     ../../project_code/best_mlb_players/dist/index.html
   - title:   Github
     url:     https://github.com/inspectordanno/best_mlb_players
-featured:    true
+featured:    false
 ---

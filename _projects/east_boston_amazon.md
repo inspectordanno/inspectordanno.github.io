@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       If Amazon HQ2 moves to East Boston, what wil happen?
+title:       If Amazon HQ2 moves to East Boston, what will happen?
 date:        3 Apr 2018
 screenshot:
   src:       /assets/img/caleb-george.jpg
@@ -15,5 +15,5 @@ links:
     url:     ../../project_code/east_boston_amazon/P3-GROUP/index.html
   - title:   Github
     url:     https://github.com/inspectordanno/east_boston_amazon
-featured:    true
+featured:    false
 ---

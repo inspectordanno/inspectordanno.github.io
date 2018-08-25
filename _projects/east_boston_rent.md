@@ -15,5 +15,5 @@ links:
     url:     ../../project_code/east_boston/index.html
   - title:   Github
     url:     https://github.com/inspectordanno/east_boston
-featured:    true
+featured:    false
 ---
