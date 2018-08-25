@@ -19,3 +19,6 @@
 [submodule "project_code/titanic"]
 	path = project_code/titanic
 	url = https://github.com/inspectordanno/titanic
+[submodule "project_code/personal_statement_p5"]
+	path = project_code/personal_statement_p5
+	url = https://github.com/inspectordanno/personal_statement_p5
