@@ -1,8 +1,8 @@
 GIT
   remote: git@hydejack:qwtel/hydejack-8-pro.git
-  revision: ac6bc84a87f0465d4a7703933993b8b78c741f8c
+  revision: 991ce03e23f6ce36ad5dcd64cd2bd20e45b5b6f5
   specs:
-    jekyll-theme-hydejack-pro (8.0.0)
+    jekyll-theme-hydejack-pro (8.1.1)
       jekyll (~> 3.7)
 
 GEM
