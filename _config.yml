@@ -24,7 +24,7 @@ title:                 Dan Spector
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Front-end developer, data vizualization designer, writer.
+  Front-end developer, data visualization designer, writer.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -187,12 +187,12 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' local time.
-    dynamic:           true
+    dynamic:           false
     sunrise:           6
     sunset:            18
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:              false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------

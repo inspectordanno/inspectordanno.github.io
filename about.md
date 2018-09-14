@@ -1,17 +1,20 @@
 ---
 layout: welcome
-cover: false
+cover: true
 image: /assets/img/hydejack-8.jpg
 hide_description: true
 permalink: /
+menu: true
+order: 3
+title: About Me
 ---
 
-# Howdy!
+## Howdy!
 I'm Dan. 🎉 I'm a developer, designer, and writer. I study information design and data visualization
 as a graduate student at [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
 
 ## What I Like Doing
-I’m Dan Spector. 🎉 I’m a developer, designer, and writer. I study information design and data visualization as a graduate student at Northeastern University in Boston, MA. I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3.js.
+I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3.js.
 
 I’m also a firm believer in the power of words. Writing is my therapy.
 
