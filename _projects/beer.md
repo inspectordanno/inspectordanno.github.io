@@ -15,5 +15,5 @@ links:
     url:     ../../project_code/craft_beer_viz/dist/index.html
   - title:   Github
     url:     https://github.com/inspectordanno/craft_beer_viz
-featured:    false
+featured:    true
 ---
