@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Dan Spector"
+  label: "Front-end developer, data visualization designer, writer"
   picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "spector.d@husky.neu.edu"
+  phone: ""
+  website: "http://inspectordanno.github.io"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
@@ -17,19 +17,18 @@ basics:
     his non-work interests range widely,
     everything from quantum computing to chaos theory.
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+    address: ""
+    postalCode: ""
+    city: "Boston"
     countryCode: "US"
-    region: "California"
+    region: "Massacushetts"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "inspectordanno"
+      url: "http://twitter.com/inspectordanno"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: ""
       url: ""
 work:
   - company: "Pied Piper"
