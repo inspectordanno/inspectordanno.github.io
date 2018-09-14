@@ -52,10 +52,9 @@ import {
 } from "rxjs/operators";
 
 // Some of our own helper functions and classes.
-import { animate, empty, hasFeatures, isFirefoxIOS } from "./common";
+import { animate, empty, hasFeatures, isFirefoxIOS, importTemplate } from "./common";
 import { CrossFader } from "./cross-fader";
 import { upgradeMathBlocks } from "./katex";
-import { loadDisqus } from "./disqus";
 import { setupFLIP } from "./flip";
 
 // ## Constants
@@ -73,6 +72,12 @@ const REQUIREMENTS = new Set([
   "queryselector",
   "requestanimationframe",
 ]);
+
+const NAVBAR_SEL = "#_navbar > .content > .nav-btn-bar";
+const CANONICAL_SEL = "link[rel=canonical]";
+const META_DESC_SEL = "meta[name=description]";
+const FN_SEL = "li[id^='fn:']";
+const FN_LINK_SEL = "a[href^='#fn:']";
 
 // TODO:
 const DURATION = 250;
@@ -105,37 +110,26 @@ const HEADING_SELECTOR = "h1[id], h2[id], h3[id], h4[id], h5[id], h6[id]";
 // ## Functions
 // Takes a heading and adds a "#" link for permalinks:
 function upgradeHeading(h) {
-  const template = document.getElementById("_permalink-template");
-  const df = document.importNode(template.content, true);
+  const df = importTemplate("_permalink-template");
   const a = df.querySelector(".permalink");
   requestAnimationFrame(() => ((a.href = `#${h.id}`), h.appendChild(df)));
 }
 
-// Like subscribe, but we log errors to the console, but continue as if it never happend.
-// const subscribe = (source, ne, er, co) => source.pipe(
-//   tap({ error: e => console.error(e) }),
-//   catchError((e, c) => c),
-// )
-//   .subscribe(ne, er, co);
-
 // Set up the DOM elements:
 function setupAnimationMain(pushStateEl) {
-  const template = document.getElementById("_animation-template");
-  const animationMain = document.importNode(template.content, true);
+  const animationMain = importTemplate("_animation-template");
   pushStateEl.parentNode.insertBefore(animationMain, pushStateEl);
   return pushStateEl.previousElementSibling;
 }
 
 function setupLoading(navbarEl) {
-  const template = document.getElementById("_loading-template");
-  const loading = document.importNode(template.content, true);
+  const loading = importTemplate("_loading-template");
   navbarEl.appendChild(loading);
   return navbarEl.lastElementChild;
 }
 
 function setupErrorPage(main, { pathname }) {
-  const template = document.getElementById("_error-template");
-  const error = document.importNode(template.content, true);
+  const error = importTemplate("_error-template");
   const anchor = error.querySelector(".this-link");
   if (anchor) {
     anchor.href = pathname;
@@ -146,10 +140,9 @@ function setupErrorPage(main, { pathname }) {
 }
 
 function setupButton(parent, templateId, clickFn) {
-  const template = document.getElementById(templateId);
-  const backButton = document.importNode(template.content, true);
-  backButton.querySelector(".nav-btn").addEventListener("click", clickFn);
-  parent.appendChild(backButton);
+  const button = importTemplate(templateId);
+  button.querySelector(".nav-btn").addEventListener("click", clickFn);
+  parent.appendChild(button);
   return parent.lastElementChild;
 }
 
@@ -194,14 +187,16 @@ if (!window._noPushState && hasFeatures(REQUIREMENTS) && !isFirefoxIOS) {
       !!navigator.standalone || window.matchMedia("(display-mode: standalone)").matches;
 
     const pushStateEl = document.getElementsByTagName("hy-push-state")[0];
-    const btnBarEl = document.querySelector(".navbar .content .nav-btn-bar");
+    const navbarEl = document.querySelector(NAVBAR_SEL);
+    const canonicalEl = document.querySelector(CANONICAL_SEL);
+    const metaDescEl = document.querySelector(META_DESC_SEL);
 
     const animationMain = setupAnimationMain(pushStateEl);
-    const loading = setupLoading(document.querySelector(".navbar .content"));
+    const loading = setupLoading(navbarEl);
 
     // Show a back button when in standalone mode.
     if (isStandalone) {
-      setupButton(btnBarEl, "_back-template", () => window.history.back());
+      setupButton(navbarEl, "_back-template", () => window.history.back());
     }
 
     // Setting up the basic event observables.
@@ -272,24 +267,33 @@ if (!window._noPushState && hasFeatures(REQUIREMENTS) && !isFirefoxIOS) {
         );
 
         /*
-      requestIdleCallback(() => {
-        Array.from(main.querySelectorAll(pushStateEl.linkSelector)).forEach(anchor => {
-          caches.match(anchor.href).then(m => {
-            if (m) requestAnimationFrame(() => anchor.classList.add("visited"));
+        requestIdleCallback(() => {
+          Array.from(main.querySelectorAll(pushStateEl.linkSelector)).forEach(anchor => {
+            caches.match(anchor.href).then(m => {
+              if (m) requestAnimationFrame(() => anchor.classList.add("visited"));
+            });
           });
         });
-      });
-      */
+        */
       });
 
     after$
-      .pipe(startWith({ replaceEls: [document.getElementById("_main")] }))
-      .subscribe(({ replaceEls: [main] }) => {
-        Array.from(main.querySelectorAll('li[id^="fn:"]')).forEach(li => {
-          li.tabIndex = 0;
-        });
+      .pipe(
+        startWith({
+          replaceEls: [document.getElementById("_main")],
+          documentFragment: document,
+        })
+      )
+      .subscribe(({ replaceEls: [main], documentFragment }) => {
+        const cEl = documentFragment.querySelector(CANONICAL_SEL);
+        if (canonicalEl && cEl) canonicalEl.href = cEl.href;
 
-        Array.from(main.querySelectorAll('a[href^="#fn:"]')).forEach(a =>
+        const mEl = documentFragment.querySelector(META_DESC_SEL);
+        if (metaDescEl && mEl) metaDescEl.content = mEl.content;
+
+        Array.from(main.querySelectorAll(FN_SEL)).forEach(li => (li.tabIndex = 0));
+
+        Array.from(main.querySelectorAll(FN_LINK_SEL)).forEach(a =>
           a.addEventListener("click", e =>
             document.getElementById(e.currentTarget.hash.substr(1)).focus()
           )
@@ -358,10 +362,7 @@ if (!window._noPushState && hasFeatures(REQUIREMENTS) && !isFirefoxIOS) {
     // Once the content is faded in, upgrade the math blocks with KaTeX.
     // This can take a while and will trigger multiple repaints,
     // so we don't want to start until after the animation.
-    fadeIn$.subscribe(() => {
-      upgradeMathBlocks();
-      loadDisqus();
-    });
+    fadeIn$.subscribe(() => upgradeMathBlocks());
 
     // ### Show error page
     // In case of a network error, we don't want to show the browser's default offline page.
