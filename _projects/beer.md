@@ -3,11 +3,11 @@ layout:      project
 title:       A Visual Insight into American Craft Beers
 date:        24 Aug 2018
 screenshot:
-  src:       /assets/img/caleb-george.jpg
+  src:       /img/beer/beer_1920.png
   srcset:
-    1920w:   /assets/img/hydejack-8.jpg
-    960w:    /assets/img/hydejack-8@0,5x.jpg
-    480w:    /assets/img/hydejack-8@0,25x.jpg
+    1920w:   /img/beer/beer_1920.png
+    960w:    /img/beer/beer_960.png
+    480w:    /img/beer/beer_480.png
 caption:     American craft beers and breweries, organized by state.
 description: American craft beers and breweries, organized by state.
 links:
