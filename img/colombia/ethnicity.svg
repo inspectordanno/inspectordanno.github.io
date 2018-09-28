@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Lato');
+	.st0{fill:#90D3EE;}
+	.st1{fill:#84A982;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#9F9F9F;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#EF7B7C;}
+	.st4{fill:#010202;}
+	.st5{fill:none;}
+	.st6{fill:#59818E;}
+	.st7{font-family:'Lato', sans-serif;}
+	.st8{font-size:14.949px;}
+	.st9{fill:#84A982;}
+	.st10{fill:#828282;}
+	.st11{fill:none;stroke:#010202;}
+	.st12{font-family:'MyriadPro-Regular';}
+	.st13{font-size:12.4575px;}
+	.st14{font-size:19.932px;}
+	.st15{font-size:15px;}
+</style>
+<g>
+	<circle class="st0" cx="220.1" cy="91" r="29"/>
+	<circle class="st0" cx="220.1" cy="181.1" r="29"/>
+	<path class="st1" d="M299.8,454.5c0-10.7-5.8-20.1-14.4-25.1c-2.4-1.4-5-2.5-7.8-3.1c-1.4-0.3-2.9-0.6-4.4-0.7
+		c0.2,19.2,1.3,38.4,2.4,57.5C289.3,480.9,299.8,468.9,299.8,454.5z"/>
+	<path class="st0" d="M220.1,242.3c-16,0-29,13-29,29c0,16,13,29,29,29c1.6,0,3.2-0.1,4.7-0.4c-1.1-19.2-2.2-38.4-2.4-57.5
+		C221.6,242.3,220.8,242.3,220.1,242.3z"/>
+	<circle class="st2" cx="220.1" cy="361.4" r="29"/>
+	<circle class="st0" cx="315.5" cy="91" r="29"/>
+	<circle class="st0" cx="315.5" cy="181.1" r="29"/>
+	<path class="st3" d="M235,454.4c0-16-13-29-29-29c-0.3,0-0.6,0-0.9,0c3.5,19.3,1.2,38.7,1.2,58C222.2,483.2,235,470.3,235,454.4z"
+		/>
+	<path class="st4" d="M516.4,327.3c-15.6,0.5-28.1,13.3-28.1,29c0,16,13,29,29,29c0.1,0,0.2,0,0.3,0
+		C517.6,366,519.9,346.7,516.4,327.3z"/>
+	<circle class="st0" cx="411" cy="91" r="29"/>
+	<circle class="st0" cx="411" cy="181.1" r="29"/>
+	<circle class="st2" cx="411" cy="271.3" r="29"/>
+	<circle class="st2" cx="315.5" cy="271.3" r="29"/>
+	<circle class="st2" cx="315.5" cy="361.4" r="29"/>
+	<circle class="st4" cx="417.4" cy="356.3" r="29"/>
+	<circle class="st0" cx="506.4" cy="91" r="29"/>
+	<circle class="st0" cx="506.4" cy="181.1" r="29"/>
+	<circle class="st2" cx="506.4" cy="271.3" r="29"/>
+	<rect x="118.4" y="68.2" class="st5" width="69.1" height="52"/>
+	<text transform="matrix(1 0 0 1 118.3745 79.2658)"><tspan x="0" y="0" class="st6 st7 st8">Mestizo</tspan><tspan x="0" y="17.9" class="st6 st7 st8">53.5%</tspan></text>
+	<rect x="32.7" y="435.3" class="st5" width="177.8" height="52"/>
+	<text transform="matrix(1 0 0 1 32.6934 446.341)"><tspan x="0" y="0" class="st3 st7 st8">Native South American</tspan><tspan x="0" y="17.9" class="st3 st7 st8">3.4%</tspan></text>
+	<rect x="315.5" y="434.2" class="st5" width="177.8" height="52"/>
+	<text transform="matrix(1 0 0 1 315.5093 445.1955)"><tspan x="0" y="0" class="st9 st7 st8">Other Ethnicity</tspan><tspan x="0" y="17.9" class="st9 st7 st8">1.9%</tspan></text>
+	<rect x="558.6" y="253.2" class="st5" width="200.7" height="41.7"/>
+	<text transform="matrix(1 0 0 1 558.5606 264.216)"><tspan x="0" y="0" class="st10 st7 st8">White European Colombian</tspan><tspan x="0" y="17.9" class="st10 st7 st8">30.7%</tspan></text>
+	<rect x="560.1" y="338.7" class="st5" width="148.7" height="47.4"/>
+	<text transform="matrix(1 0 0 1 560.1016 349.7082)"><tspan x="0" y="0" class="st4 st7 st8">African Colombian</tspan><tspan x="0" y="17.9" class="st4 st7 st8">10.5%</tspan></text>
+	<path class="st1" d="M228,299.2"/>
+	<path class="st1" d="M226.8,243"/>
+	<circle class="st11" cx="606.8" cy="55.7" r="12.2"/>
+	<rect x="623.4" y="50.9" class="st5" width="80.7" height="12.2"/>
+	<text transform="matrix(1 0 0 1 623.4278 59.7863)" class="st7 st8">Each dot = 6%</text>
+	<rect x="340.9" y="13.7" class="st5" width="81" height="19.3"/>
+	<text transform="matrix(1 0 0 1 340.916 28.3478)" class="st7 st14">Ethnicity</text>
+	<rect x="261.5" y="508.7" class="st5" width="249.3" height="97.7"/>
+	<text transform="matrix(1 0 0 1 261.4532 519.717)"><tspan x="0" y="0" class="st7 st15">Latin American ethnicity is analogous </tspan><tspan x="0" y="18" class="st7 st15">to race in the United States. Mestizo is </tspan><tspan x="0" y="36" class="st7 st15">more of a cultural idenity, however, as </tspan><tspan x="0" y="54" class="st7 st15">it applies to those who have mixed </tspan><tspan x="0" y="72" class="st7 st15">European and native ancestry.</tspan></text>
+</g>
+</svg>

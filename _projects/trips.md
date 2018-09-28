@@ -27,12 +27,12 @@ Thank you to Professor Doug Scott and the rest of my class for providing such he
 
 This is my first sketch of the project:
 
-![trip_sketch](../../assets/img/projects/trip_sketch.png)
+![trip_sketch](../../img/trips/trip_sketch.png)
 
 It is a bit different from the final product! I was baffled on how to incorporate all this data in one design, so I decided to go with several different boxes. I met with my teacher in office hours who gave me great advice to expand my middle graphic and make it vertical. This allowed me to take advantage of visual hierarchy and combine everything together.
 
 This following is one of many iterations I printed and taped together for critique. (Spoiler: after ten more tries and another trip to office hours, I finally learned how cut marks work!)
 
-![trip_digital](../../assets/img/projects/trip_digital.png)
+![trip_digital](../../img/trips/trip_digital.png)
 
 You can see that the icons are very large and most of the labels are not aligned in a logical way. Much of my time spent on this project was learning how to arrange objects in a pleasing graphical hierarchy. In addition, I was using stacked green boxes to represent travel longer than my maxiumum horizontal scale, which I eventually scrapped for my current design.

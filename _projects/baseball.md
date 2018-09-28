@@ -3,11 +3,11 @@ layout:      project
 title:       The Best MLB Players Ever
 date:        27 Apr 2018
 screenshot:
-  src:       /img/beer/beer_1920.png
+  src:       /img/mlb/mlb_1920.png
   srcset:
-    1920w:   /img/beer/beer_1920.png
-    960w:    /img/beer/beer_960.png
-    480w:    /img/beer/beer_480.png
+    1920w:   /img/mlb/mlb_1920.png
+    960w:    /img/mlb/mlb_960.png
+    480w:    /img/mlb/mlb_480.png
 caption:     The greatest Major League baseball players of each decade.
 description: The greatest Major League Baseball players ever, organized by decade.
 links:

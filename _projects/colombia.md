@@ -20,3 +20,6 @@ This was the last assignment for my introductory static visualization course. We
 We were also required to visualize a topic of our choosing. I picked Colombia's drug trade, since it is a large and controversial component of the country's economy, and also very relevant to issues facing the United States.
 
 Overall, this project was quite challenging, and helped me develop my visualization and data gathering skills.
+
+![flag](../../img/colombia/flag.svg)
+![about](../../img/colombia/about.svg)
