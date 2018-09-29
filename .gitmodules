@@ -22,3 +22,6 @@
 [submodule "project_code/personal_statement_p5"]
 	path = project_code/personal_statement_p5
 	url = https://github.com/inspectordanno/personal_statement_p5
+[submodule "project_code/R_food"]
+	path = project_code/R_food
+	url = https://github.com/inspectordanno/R_food.git
