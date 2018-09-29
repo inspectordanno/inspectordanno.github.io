@@ -2,12 +2,12 @@
 layout:      project
 title:       Personal Statement
 date:        26 May 2018
-# screenshot:
-#   src:       /assets/img/projects/hyde-v2@0,25x.jpg
-#   srcset:
-#     1920w:   /assets/img/projects/hyde-v2.jpg
-#     960w:    /assets/img/projects/hyde-v2@0,5x.jpg
-#     480w:    /assets/img/projects/hyde-v2@0,25x.jpg
+screenshot:
+  src:       /img/personal/personal_1920.png
+  srcset:
+    1920w:   /img/personal/personal_1920.png
+    960w:    /img/personal/personal_960.png
+    480w:    /img/personal/personal_480.png
 caption:     A simple slideshow made in P5.js.
 description: A simple slideshow made in P5.js.
 links:

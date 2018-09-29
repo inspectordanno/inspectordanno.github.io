@@ -2,12 +2,12 @@
 layout:      project
 title:       How did passenger class affect survival on the Titanic?
 date:        1 Dec 2017
-# screenshot:
-#   src:       /assets/img/projects/hyde-v2@0,25x.jpg
-#   srcset:
-#     1920w:   /assets/img/projects/hyde-v2.jpg
-#     960w:    /assets/img/projects/hyde-v2@0,5x.jpg
-#     480w:    /assets/img/projects/hyde-v2@0,25x.jpg
+screenshot:
+  src:       /img/titanic/titanic_1920.png
+  srcset:
+    1920w:   /img/titanic/titanic_1920.png
+    960w:    /img/titanic/titanic_960.png
+    480w:    /img/titanic/titanic_480.png
 caption:     A simple, yet powerful correlation.
 description: A simple, yet powerful correlation.
 links:
@@ -17,3 +17,4 @@ links:
     url:     https://github.com/inspectordanno/titanic_survival
 featured:    false
 ---
+This was the first thing I made in D3. A simple yet powerful correlation displayed in a bar graph.
