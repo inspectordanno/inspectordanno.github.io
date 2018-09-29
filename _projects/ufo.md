@@ -6,8 +6,8 @@ screenshot:
   src:       /img/ufo/ufo_1920.png
   srcset:
     1920w:   /img/ufo/ufo_1920.png
-    960w:    /img/ufo_960.png
-    480w:    /img/ufo_480.png
+    960w:    /img/ufo/ufo_960.png
+    480w:    /img/ufo/ufo_480.png
 caption:     Using ArcMap to map UFO sightings in the United States.
 description: Using ArcMap to map UFO sightings in the United States.
 links:
