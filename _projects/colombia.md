@@ -7,7 +7,7 @@ screenshot:
   srcset:
     1920w:   /img/colombia/colombia_1920.png
     960w:    /img/colombia/colombia_960.png
-    480w:    /img/colombia/colombia_540.png
+    480w:    /img/colombia/colombia_480.png
 caption:     An infographic atlas about Colombia.
 description: An infographic atlas about Colombia.
 # links:
