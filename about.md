@@ -1,16 +1,13 @@
 ---
-layout: welcome
-cover: true
+layout: page
 image: /assets/img/hydejack-8.jpg
 hide_description: true
-permalink: /
 menu: true
+permalink: /about/
 order: 3
 title: About Me
 ---
-
-## Howdy!
-I'm Dan. 🎉 I'm a developer, designer, and writer. I study information design and data visualization
+I'm a developer, designer, and writer, working mostly with front-end web technologies. I study information design and data visualization
 as a graduate student at [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
 
 ## What I Like Doing
