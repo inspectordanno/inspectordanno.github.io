@@ -27,7 +27,6 @@ This is my final project for my GIS class. I decided to visualize UFO encounters
 ![ufo5](../../img/ufo/UFOs (5).svg){:.svg_border}
 ![ufo6](../../img/ufo/UFOs (6).svg){:.svg_border}
 <iframe src="https://drive.google.com/file/d/1YNOYtjZ6Ra2CRocLlHOvaz5yqe4YEai0/preview" width="640" height="480"></iframe>
-Encounters over Time.
 ![ufo7](../../img/ufo/UFOs (7).svg){:.svg_border}
 ![ufo8](../../img/ufo/UFOs (8).svg){:.svg_border}
 ![ufo9](../../img/ufo/UFOs (9).svg){:.svg_border}

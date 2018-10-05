@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       The Best MLB Players Ever
-date:        27 Apr 2018
+date:        21 Aug 2018
 screenshot:
   src:       /img/mlb/mlb_1920.png
   srcset:

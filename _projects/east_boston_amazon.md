@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       What will happen if Amazon HQ2 moves to East Boston?
-date:        3 Apr 2018
+date:        23 Aug 2018
 screenshot:
   src:       /img/amazon/amazon_1920.png
   srcset:

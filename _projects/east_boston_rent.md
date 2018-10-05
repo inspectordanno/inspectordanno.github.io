@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Can East Boston residents afford their rent?
-# date:        27 Mar 2018
+date:        22 Aug 2018
 screenshot:
   src:       /img/rent/rent_1920.png
   srcset:

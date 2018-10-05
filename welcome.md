@@ -18,6 +18,6 @@ I'm Dan. 🎉 I'm a developer, designer, and writer. I study information design 
 as a graduate student at [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
 
 [Learn more about me.](./about.md)
-### Here are the projects I am most proud of:
+### These are the projects I am most proud of:
 
 <!--projects-->
