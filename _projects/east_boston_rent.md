@@ -26,7 +26,6 @@ The line chart is rendered entirely in D3, and is powered by a dataset of all th
 This is how I calculate the average rent prices for each of the years:
 
 ~~~js
-
  var averages = {};
 
       //this looped 9 times, once for each bedroom number. (The dataset had 0 - 8 bedroom apartments)

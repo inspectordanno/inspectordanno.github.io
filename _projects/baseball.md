@@ -17,8 +17,7 @@ links:
     url:     https://github.com/inspectordanno/best_mlb_players
 featured:    true
 ---
-Please view on desktop.
-{:.lead}
+>Please view on desktop.
 
 This was the first full-featured visualization I ever made with D3! I had several goals for this project:
 1. Render an SVG baseball field to the screen, and position elements according to their position on the baseball field. Data bind each element to a player.

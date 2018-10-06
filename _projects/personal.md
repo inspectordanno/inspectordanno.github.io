@@ -19,6 +19,15 @@ featured:    false
 ---
 For this assignment, I was taked with implementing a slide show in P5.js. It ended up involving into a strange, stream-of-consciousness comparison between Philadelphia and Boston, complete with Ben Franklin and oddly placed rectangles and bottles of milk. The code itself is not as efficient as I would like it be. I having some strange problems with some P5 functions and I wasn't able to make them reusable.
 
+The major challenge I had with this project was implementing the variable logic throughout global, setup, and draw. I implemented this project in JavaScript, and am used to declaring my variables as arguments within functions, along with some globally defined variables. Because setup and draw do not take arguments, and draw cannot access variables within setup, I was initially confused on the proper way to define a function globally and then redefine its value within setup or draw.
+
+This issue came to a head when I was building the iteration array that cycled through the functions that ran in my program. Most of my functions fall into two broad categories—writing text to the canvas and attaching pictures to the canvas. The text was placed in the canvas using a consistent typographic technique, and the pictures were also written to the canvas in a consistent manner. Because of this, I attempted to create functions that would serve as templates for writing text and images, and pass in strings as arguments. Unfortunately, this failed miserably.
+
+The problem was that I was setting variables equal to function invocations, and then attempting to call them from an array. One cannot set a variable to a function invocation—rather, one has to set it to a function declaration (with the function keyword). However, if I were to do this, I would still have to write each function out individually, without using the invocation shorthand, which would defeat the purpose.
+
+The ideal solution would probably be to store the strings in an array, and invoke the functions from draw, while cycling through the strings.
+The only other minor problem I had was collectively positioning rectangles on the canvas, but I learned today that I could do with translate. 
+
 This is the draw function. It is basicaly a timer that changes the slides every three seconds.
 
 ~~~js

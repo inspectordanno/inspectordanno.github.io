@@ -17,6 +17,8 @@ links:
     url:     https://github.com/inspectordanno/craft_beer_viz
 featured:    true
 ---
+>For best experience, please view on desktop.
+
 This is the project I'm most proud of. It is a classic data visualization “dashboard”. Sometimes I cringe when I hear that word, but it's definitely the best way to describe this work. The user selects a parameter and then all the modules update based on the input. 
 
 In this example, the parameter selected is a state. When the user clicks on a state, the dataset (consisting of breweries and beers) is filtered down to the state level. The charts track two important summary statistics of beer: alcohol by volume and IBU. The higher a beer is in IBU, the more bitter.
