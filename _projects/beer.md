@@ -63,7 +63,7 @@ let histHeight;
 let scatterWidth;
 let scatterHeight;
 
-//Then, I set my breakpoints. First, I would get the width of the div that the SVG would be embedded in. This div was generated according to CSS Grid FR units. Then, I calculated the height by using a ratio, which kept things consistent on different screens.
+//Then, I set my breakpoints. First, I would get the width of the div that the SVG would be embedded in. This div was generated according to CSS Grid fr units. Then, I calculated the height by using a ratio, which kept things consistent on different screens.
 
 //desktop
 if (wW >= 768 ) {
@@ -80,12 +80,13 @@ if (wW >= 768 ) {
   scatterWidth = document.querySelector('.scatterplot').clientWidth; //692
   scatterHeight = scatterWidth / 1.3; //535
 
-//phone 
+//mobile
 } else if (wW < 768) {
-
+  //for mobile, I just set constant SVG dimensions. But dynamic rendering could also work.
   mapWidth = 250;
   mapHeight = 222;
   // mapWidth = document.querySelector('.map').clientWidth;
+  //mapHeight = mapWidth / someRatio;
 
   histWidth = 250;
   histHeight = 222;
