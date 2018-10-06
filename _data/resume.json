@@ -1,0 +1,193 @@
+{
+  "basics": {
+    "name": "Dan Spector",
+    "label": "Front-end developer, data visualization designer, writer",
+    "picture": "",
+    "email": "spector.d@husky.neu.edu",
+    "phone": "",
+    "website": "https://inspectordanno.github.io",
+    "summary": "I’m a graduate student studying information design and data visualization at Northeastern University. I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3.js. I’m also a firm believer in the power of words.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Boston",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "inspectordanno",
+        "url": "http://github.com/inspectordanno"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dan-spector",
+        "url": "https://www.linkedin.com/in/dan-spector"
+      },
+      {
+        "network": "Twitter",
+        "username": "inspectordanno",
+        "url": "http://twitter.com/inspectordanno"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Northeastern University",
+      "position": "Information Design Student",
+      "website": "",
+      "startDate": "2017-09-01",
+      "endDate": "",
+      "summary": " I create visual, data-driven applications in a studio environment as part of my graduate studies.",
+      "highlights": [
+        "Tackle design challenges through individual and team project work",
+        "Visualized housing concerns in a gentrifying neighborhood of Boston",
+        "Explored the American craft beer industry from a geographic perspective"
+      ]
+    },
+    {
+      "company": "CKD Solutions",
+      "position": "Video Editor / Social Media Producer",
+      "website": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-08-31",
+      "summary": "I produced video and social media content for a company promoting women’s corporate leadership development.",
+      "highlights": [
+        "Crafted a speaker reel for the CEO, spending months iterating and revising footage",
+        "Edited video from conferences about women in the workplace issues and female executive career growth",
+        "Revamped company marketing strategy on social media"
+      ]
+    },
+    {
+      "company": "Library Assistant / Web Content Producer",
+      "position": "Township Library of Lower Southampton",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2016-12-31",
+      "summary": "I served as a circulation assistant at a busy suburban library. I also headed all marketing and information initiatives for the library website.",
+      "highlights": [
+        "Assisted patrons with book checkout in an efficient and organized manner",
+        "Curated library website with programming information and author bios",
+        "Wrote articles detailing local happenings in the library community"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "area": "Information Design and Visualization",
+      "studyType": "M.F.A.",
+      "startDate": "2017-09-01",
+      "endDate": "",
+      "gpa": "3.70",
+      "courses": [
+        "Programming Basics (P5.js)",
+        "Visualization Technologies (D3.js)",
+        "Statistics for Designers (R)",
+        "Geographic Information Systems (ArcMap)",
+        "Studio 1 (Graphic Design)",
+        "Studio 2 (Data Journalism)",
+        "Studio 3 (Thesis Class)",
+        "Research Methods",
+        "Information Design History"
+      ]
+    },
+    {
+      "institution": "Cornell University",
+      "area": "Government",
+      "studyType": "B.A.",
+      "startDate": "2010-08-20",
+      "endDate": "2014-05-01",
+      "gpa": "3.59",
+      "courses": [
+        "Political Science",
+        "Writing"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ES6",
+        "Webpack",
+        "D3.js",
+        "React.js",
+        "P5.js",
+        "Flexbox",
+        "CSS Grid"
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "level": "",
+      "keywords": [
+        "Illustrator"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "R"
+      ]
+    },
+    {
+      "name": "Video Production",
+      "level": "",
+      "keywords": [
+        "DSLR",
+        "Premiere Pro",
+        "Final Cut Pro",
+        "After Effects"
+      ]
+    },
+    {
+      "name": "Writing and Editing",
+      "level": "",
+      "keywords": [
+        "English"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Writing",
+      "keywords": [
+        "Blogging",
+        "Fiction"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+        "Piano",
+        "Vinyl"
+      ]
+    },
+    {
+      "name": "Reading",
+      "keywords": [
+        "Books",
+        "News"
+      ]
+    },
+    {
+      "name": "Watching sports",
+      "keywords": [
+        "Agonizing Philadelphia sports teams"
+      ]
+    }
+  ],
+  "references": []
+}

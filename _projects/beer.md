@@ -37,9 +37,9 @@ I’m very proud I got the map to work. It uses a [complicated D3 zooming featur
 
 Each state is generated in SVG as a feature. When the user clicks on the feature, the map zooms in and passes filtered data to the charts.
 
-## CSS Grid
+## Using CSS Grid with SVG
 
-If you haven't checked out CSS Grid yet, I highly recommend it. It's the most powerful and easy way I've come across to lay out pages, and it's totally native to CSS. However, implementing it in this project was quite tricky. I used fr units to style my dashboard, which renders the content depending on how much free space is available on the page. This worked out well, except that I was sizing my SVGs depending upon the size of the div they were nested in. These divs were defined in fr units. So I would get very oddly-sized SVGs, especially on mobile. Also, in my webpack setup, all the CSS was bundled into the JavaScript file. This really screwed things up! Somehow, the SVG wasn't calculating the size of the divs correctly, so I was getting SVGs with no height. These problems coalesced into very odd layouts that only corrected themselves when the page was loaded multiple times.
+If you haven't checked out CSS Grid yet, I highly recommend it. It's the most powerful and easy way I've come across to lay out pages, and it's totally native to CSS. However, implementing it in this project was quite tricky. I used fr units to style my dashboard, which renders the content depending on how much free space is available on the page. This worked out well, except that I was sizing my SVGs depending upon the size of the div they were nested in. These divs were defined in fr units. So I would get very oddly-sized SVGs, especially on mobile, where window width is less than window height. Also, in my webpack setup, all the CSS was bundled into the JavaScript file. This really screwed things up! Somehow, the SVG wasn't calculating the size of the divs correctly, so I was getting SVGs with no height. These problems coalesced into very odd layouts that only corrected themselves when the page was reloaded multiple times.
 
 The solution involved using [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin), which bundled my styles into a separate CSS file. I will probably do this from now on due to all the unforseen problems I encountered with my CSS in JS. I also set up some breakpoints in JavaScript, and rendered the height of the SVG based on a consistent ratio to the width. This gave me consistent width-height ratios across all screen sizes.
 
@@ -101,6 +101,6 @@ If you want to learn CSS Grid, I highly recommend these links:
 
 [CSS Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-[A free Wes Bos course](http://cssgrid.io)
+[A free Wes Bos course](http://cssgrid.io) This was extremely helpful for learning Grid. He also has a free one on Flexbox.
 
-I also highly recommend [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for the great CSS Grid debugging tools.
+I also use [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) for the great CSS Grid debugging tools.
