@@ -29,7 +29,7 @@ After the user selects a state, they can select another or click the existing st
 
  At first, I wanted to implement a shopping cart experience where the user browses a selection of beers by type and then picks the ones they like. However, when I started making this project, I realized it was a lot more useful to summarize data from a top-down level. D3.js (the standard JS data viz library) is very good at making charts that can link to each other and animate data when a condition was met. As soon as I embarked on this path, I realized the power of D3.js (and gulp–dare I say raw JavaScript?) at manipulating data in the browser.
 
-The other major roadblock in the beginning was that all the APIs for beer on the internet are not public. As a lone student, I couldn’t secure any API keys, so I had to rely on .csv files I found online. I think the quality of the data from a  API might be better than those of the .CSV I found, but it didn’t change my workflow much, since nearly all of my work in in front-end data manipulation and display.
+The other major roadblock in the beginning was that all the APIs for beer on the internet are not public. As a lone student, I couldn’t secure any API keys, so I had to rely on .csv files I found online. I think the quality of the data from a  API might be better than those of the CSV I found, but it didn’t change my workflow much, since nearly all of my work is in front-end data manipulation and display.
 
 ## The Zoomable Map
 
