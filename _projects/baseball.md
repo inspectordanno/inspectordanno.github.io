@@ -28,7 +28,7 @@ This was the first full-featured visualization I ever made with D3! I had severa
 I managed to include all these features. But did how did they work in the wild?
 
 ## User Testing
-I showed this work to a lot of different people. They included my uncle and dad, both baby-boomer baseball fans. They loved the nostalgia and snappy presentation of the players, but they didn't quite understand how to scroll to move forward in time. Some of my younger subjects were able to conceptualize the scrolling better (not trying to suggest that age is inversely correlated with scrolling undertanding!), but it was still a little tricky for them to navigate.
+I showed this work to a lot of different people. They included my uncle and dad, both baby-boomer baseball fans. They loved the nostalgia and snappy presentation of the players, but they didn't quite understand how to scroll to move forward in time. Some of my younger subjects were able to conceptualize the scrolling better (not trying to suggest that age is inversely correlated with scrolling understanding!), but it was still a little tricky for them to navigate.
 
 This is a weird scrolling project. It is powered by the Waypoints scroll library, but it doesn't follow the traditional scrollytelling template. There isn't a text sidebar that scrolls down the page, nor a CSS ```position:sticky``` mechanism that allows text to say on the page and then disappear. In short, there's no understandable mapping that directs the user to scroll to move forward in the graphic. This confused a lot of my users.
 

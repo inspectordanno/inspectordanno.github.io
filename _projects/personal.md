@@ -17,7 +17,7 @@ links:
     url:     https://github.com/inspectordanno/personal_statement_p5
 featured:    false
 ---
-For this assignment, I was taked with implementing a slide show in P5.js. It ended up involving into a strange, stream-of-consciousness comparison between Philadelphia and Boston, complete with Ben Franklin and oddly placed rectangles and bottles of milk. The code itself is not as efficient as I would like it be. I having some strange problems with some P5 functions and I wasn't able to make them reusable.
+For this assignment, I was tasked with implementing a slide show in P5.js. It ended up involving into a strange, stream-of-consciousness comparison between Philadelphia and Boston, complete with Ben Franklin and oddly placed rectangles and bottles of milk. The code itself is not as efficient as I would like it be. I having some strange problems with some P5 functions and I wasn't able to make them reusable.
 
 The major challenge I had with this project was implementing the variable logic throughout global, setup, and draw. I implemented this project in JavaScript, and am used to declaring my variables as arguments within functions, along with some globally defined variables. Because setup and draw do not take arguments, and draw cannot access variables within setup, I was initially confused on the proper way to define a function globally and then redefine its value within setup or draw.
 
@@ -28,7 +28,7 @@ The problem was that I was setting variables equal to function invocations, and 
 The ideal solution would probably be to store the strings in an array, and invoke the functions from draw, while cycling through the strings.
 The only other minor problem I had was collectively positioning rectangles on the canvas, but I learned today that I could do with translate. 
 
-This is the draw function. It is basicaly a timer that changes the slides every three seconds.
+This is the draw function. It is basically a timer that changes the slides every three seconds.
 
 ~~~js
 function draw() {
