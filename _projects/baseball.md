@@ -37,6 +37,6 @@ First, I would probably ditch the scrolling dynamic. I really wanted to implemen
 
 Also, the design of this project could use some work. There isn't any text hierarchy in the statistics section, and I want to rethink some of the colors, especially because some of the lighter ones make it hard to read the player names. Also, the introduction that appears when the page first loads looks quite odd, because it is being formatted from the CSS classes that style the player information. Since these classes are embedded in the HTML, I have to figure out how to change the style of just the introduction, while not affecting the players. I haven't exactly been able to figure out a solution to this, and I suppose that's why UI libraries like React and Vue are so useful.
 
-All in all, this project taught me a lot about D3, and also how to modularize my code using ES6 modules and webpack. Shoutout to Siqi Zhu and Steven Braun for all their help and support.
+This project taught me a lot about D3, and also how to modularize my code using ES6 modules and webpack. Shoutout to Siqi Zhu and Steven Braun for all their help and support.
 
 
