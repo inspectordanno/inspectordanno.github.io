@@ -17,7 +17,7 @@ links:
     url:     https://github.com/inspectordanno/east_boston
 featured:    true
 ---
-This is an example of a project that presents a simple graphic. The simplicity belays that fact that is there is a lot of complicated code and data manipulation going on to produce the end result!
+This is an example of a project that presents a simple graphic. The simplicity belies that fact that is there is a lot of complicated code and data manipulation going on to produce the end result!
 
 The data filtering was actually quite difficult. Since the data was only grouped by latitude and longitude, and not neighborhood, I had to ask the GIS specialist from NEU libraries to isolate just the data that fell within the latitude and longitude of East Boston. (This was before I had any idea how to use GIS software!)
 
@@ -57,6 +57,6 @@ This is how I calculate the average rent prices for each of the years:
 
 
 ### How To Improve This Project
-Right now, it is a bit difficult to visualize the discrepancy betwen the rent poverty line and the average rent prices. Maybe I could render a vertical dotted line for every year between each of the price averages, and calculate the difference between the rent poverty line and the cost of housing. For the map, it might be fun to implement a tooltip that would allow the user to hover over each property to view how much it costs.
+Right now, it is a bit difficult to visualize the discrepancy between the rent poverty line and the average rent prices. Maybe I could render a vertical dotted line for every year between each of the price averages, and calculate the difference between the rent poverty line and the cost of housing. For the map, it might be fun to implement a tooltip that would allow the user to hover over each property to view how much it costs.
 
 Shoutout to Bahare Sanaie-Movahed and Steven Braun for their assistance.

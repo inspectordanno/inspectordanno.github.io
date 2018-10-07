@@ -37,4 +37,4 @@ This following is one of many iterations I printed and taped together for critiq
 
 ![trip_digital](../../img/trips/trip_digital.png)
 
-You can see that the icons are very large and most of the labels are not aligned in a logical way. Much of my time spent on this project was learning how to arrange objects in a pleasing graphical hierarchy. In addition, I was using stacked green boxes to represent travel longer than my maxiumum horizontal scale, which I eventually scrapped for my current design.
+You can see that the icons are very large and most of the labels are not aligned in a logical way. Much of my time spent on this project was learning how to arrange objects in a pleasing graphical hierarchy. In addition, I was using stacked green boxes to represent travel longer than my maximum horizontal scale, which I eventually scrapped for my current design.

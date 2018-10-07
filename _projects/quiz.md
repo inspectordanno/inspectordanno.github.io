@@ -17,7 +17,7 @@ links:
     url:     https://github.com/inspectordanno/trivia_game_p5
 featured:    false
 ---
-This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an external JSON file. For the assigment, the professor required us to use object-oriented programming. I was the only one in the class using JavaScript (most were using Processing, a Java paradigm), so this was a little harder for my implementation.
+This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an external JSON file. For the assignment, the professor required us to use object-oriented programming. I was the only one in the class using JavaScript (most were using Processing, a Java paradigm), so this was a little harder for my implementation.
 
 ## Functionality 
 
