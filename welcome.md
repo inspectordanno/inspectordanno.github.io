@@ -5,7 +5,7 @@ cover: true
 hide_description: true
 permalink: /
 menu: false
-title: Howdy!
+# title: Howdy!
 selected_projects:
 - _projects/beer.md
 - _projects/baseball.md
