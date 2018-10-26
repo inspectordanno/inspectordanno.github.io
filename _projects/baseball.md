@@ -25,7 +25,7 @@ This was the first full-featured visualization I ever made with D3! I had severa
 3. Implement a scrolling mechanism that changes the decade and data bindings.
 4. Display player bio, statistics, and picture in a tooltip-like display on the right.
 
-I managed to include all these features. But did how did they work in the wild?
+I managed to include all these features. But did they work in the wild?
 
 ## User Testing
 I showed this work to a lot of different people. They included my uncle and dad, both baby-boomer baseball fans. They loved the nostalgia and snappy presentation of the players, but they didn't quite understand how to scroll to move forward in time. Some of my younger subjects were able to conceptualize the scrolling better (not trying to suggest that age is inversely correlated with scrolling understanding!), but it was still a little tricky for them to navigate.
