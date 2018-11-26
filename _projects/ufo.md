@@ -11,8 +11,8 @@ screenshot:
 caption:     Using ArcMap to map UFO sightings in the United States.
 description: Using ArcMap to map UFO sightings in the United States.
 links:
-  - title:   View PDF
-    url:     ../../pdf/ufo.pdf
+  # - title:   View PDF
+  #   url:     ../../pdf/ufo.pdf
   # - title:   Github
   #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    false
