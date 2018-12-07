@@ -21,15 +21,15 @@ featured:    true
 
 This is the project I'm most proud of. It is a classic data visualization “dashboard”. Sometimes I cringe when I hear that word, but it's definitely the best way to describe this work. The user selects a parameter and then all the modules update based on the input. 
 
-In this example, the parameter selected is a state. When the user clicks on a state, the dataset (consisting of breweries and beers) is filtered down to the state level. The charts track two important summary statistics of beer: alcohol by volume and IBU. The higher a beer is in IBU, the more bitter.
+In this example, the parameter selected is a U.S. state. When the user clicks on a state, the dataset (consisting of breweries and beers) is filtered down to the state level. The charts track two important summary statistics of beer: alcohol by volume and IBU. The higher a beer is in IBU, the more bitter.
 
 After the user selects a state, they can select another or click the existing state to go back to the country-level.
 
 ## Beginning Stumbling Blocks
 
- At first, I wanted to implement a shopping cart experience where the user browses a selection of beers by type and then picks the ones they like. However, when I started making this project, I realized it was a lot more useful to summarize data from a top-down level. D3.js (the standard JS data viz library) is very good at making charts that can link to each other and animate data when a condition was met. As soon as I embarked on this path, I realized the power of D3.js (and gulp–dare I say raw JavaScript?) at manipulating data in the browser.
+ At first, I wanted to implement a shopping cart experience where the user browses a selection of beers by type and then picks the ones they like. However, when I started making this project, I realized it was a lot more useful to summarize data from a top-down level. D3.js is very good at making charts that can link to each other and animate data when a condition is met. As soon as I embarked on this path, I realized the power of D3.js (and dare I say raw JavaScript?) at manipulating data in the browser.
 
-The other major roadblock in the beginning was that all the APIs for beer on the internet are not public. As a lone student, I couldn’t secure any API keys, so I had to rely on .csv files I found online. I think the quality of the data from a  API might be better than those of the CSV I found, but it didn’t change my workflow much, since nearly all of my work is in front-end data manipulation and display.
+The other major roadblock in the beginning was that all the APIs for beer on the internet are not public. As a lone student, I couldn’t secure any API keys, so I had to rely on CSV files I found online. I think the quality of the data from a  API might be better than those of the CSV I found, but it didn’t change my workflow much, since nearly all of my work is in front-end data manipulation and display.
 
 ## The Zoomable Map
 
@@ -39,9 +39,12 @@ Each state is generated in SVG as a feature. When the user clicks on the feature
 
 ## Using CSS Grid with SVG
 
-If you haven't checked out CSS Grid yet, I highly recommend it. It's the most powerful and easy way I've come across to lay out pages, and it's totally native to CSS. However, implementing it in this project was quite tricky. I used fr units to style my dashboard, which renders the content depending on how much free space is available on the page. This worked out well, except that I was sizing my SVGs depending upon the size of the div they were nested in. These divs were defined in fr units. So I would get very oddly-sized SVGs, especially on mobile, where window width is less than window height. Also, in my webpack setup, all the CSS was bundled into the JavaScript file. This really screwed things up! Somehow, the SVG wasn't calculating the size of the divs correctly, so I was getting SVGs with no height. These problems coalesced into very odd layouts that only corrected themselves when the page was reloaded multiple times.
+If you haven't checked out CSS Grid yet, I highly recommend it. It's the most powerful and easy way I've come across to lay out pages, and it's totally native to CSS. However, implementing it in this project was quite tricky. I used FR units to style my dashboard, which renders the content depending on how much free space is available on the page. This worked out well, except that I was sizing my SVGs depending upon the size of the div they were nested in. These divs were defined in FR units. So I would get very oddly-sized SVGs, especially on portrait mobile displays, where window height is greater than window width. Also, in my Webpack setup, all the CSS was bundled into the JavaScript file. This really screwed things up! Somehow,the SVG wasn't calculating the size of the divs correctly, so I was getting SVGs with no height. These problems coalesced into very odd layouts that only corrected themselves when the page was reloaded multiple times.
 
 The solution involved using [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin), which bundled my styles into a separate CSS file. I will probably do this from now on due to all the unforseen problems I encountered with my CSS in JS. I also set up some breakpoints in JavaScript, and rendered the height of the SVG based on a consistent ratio to the width. This gave me consistent width-height ratios across all screen sizes.
+
+If you are using Webpack 4, use this plugin instead:
+[mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
 
 Here's how I did it:
 
