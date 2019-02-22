@@ -11,10 +11,10 @@ screenshot:
 caption:     A bouncing ball simulation with collision detection.
 description: Ballpit is a bouncing ball simulation built with P5.js. It features collision detection.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/ballpit_p5/index.html
-  - title:   Github
-    url:     https://github.com/inspectordanno/ballpit_p5
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/ballpit_p5
 featured:    false
 ---
 This is a p5.js experiment that creates balls and has them bounce around a screen. When certain balls hit each other, they change colors and reverse direction. I used ES6 classes to give each ball a class and a set of behaviors that control for collision detection and color changing:

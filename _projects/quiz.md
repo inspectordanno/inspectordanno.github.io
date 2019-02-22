@@ -11,10 +11,10 @@ screenshot:
 caption:     Time to test your grade school knowledge.
 description: Time to test your grade school knowledge.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/trivia_game_p5
-  - title:   Github
-    url:     https://github.com/inspectordanno/trivia_game_p5
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/trivia_game_p5
 featured:    false
 ---
 This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an external JSON file. For the assignment, the professor required us to use object-oriented programming. I was the only one in the class using JavaScript (most were using Processing, a Java paradigm), so this was a little harder for my implementation.

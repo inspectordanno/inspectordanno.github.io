@@ -11,10 +11,10 @@ screenshot:
 caption:     A simple slideshow made in P5.js.
 description: A simple slideshow made in P5.js.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/personal_statement_p5/index.html
-  - title:   Github
-    url:     https://github.com/inspectordanno/personal_statement_p5
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/personal_statement_p5
 featured:    false
 ---
 For this assignment, I was tasked with implementing a slide show in P5.js. It ended up evolving into a strange, stream-of-consciousness comparison between Philadelphia and Boston, complete with Ben Franklin and oddly placed bottles of milk. The code itself is not as efficient as I would like it be. I had some problems with some P5 functions and I wasn't able to make them reusable.

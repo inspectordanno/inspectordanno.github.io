@@ -11,10 +11,10 @@ screenshot:
 caption:     A simple, yet powerful correlation.
 description: A simple, yet powerful correlation.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/titanic/index.html
-  - title:   Github
-    url:     https://github.com/inspectordanno/titanic_survival
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    false
 ---
 This was the first thing I made in D3. A simple yet powerful correlation displayed in a bar graph.

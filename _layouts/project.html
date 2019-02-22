@@ -22,20 +22,20 @@ layout: base
       {% assign parent = site.pages | where:"show_collection",project.collection | first %}
       {% if parent %}
         <a href="{{ parent.url | relative_url }}" class="flip-title" property="genre">{{ parent.title }}</a>
-        {{ separator }}
+        <!-- {{ separator }} -->
       {% endif %}
 
 
-      <time datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date:proj_format }}</time>
+      <!-- <time datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date:proj_format }}</time>
       {% if project.end_date.size > 0 %}
         {{from_to_separator}}
         <time datetime="{{ project.end_date | date_to_xmlschema }}">{{ project.end_date | date:proj_format }}</time>
-      {% endif %}
+      {% endif %} -->
 
       <span class="fr">
         <span class="sr-only">{{ separator }} {{ site.data.strings.links | default:"Links" }}{{ site.data.strings.colon }}</span>
         {% for link in project.links %}
-          <a class="external" href="{{ link.url }}" property="sameAs">{{ link.title }}</a>
+          <a class="external launch" href="{{ link.url }}" property="sameAs">{{ link.title }}</a>
           {% unless forloop.last %}{{ separator }}{% endunless %}
         {% endfor %}
       </span>

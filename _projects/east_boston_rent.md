@@ -11,10 +11,10 @@ screenshot:
 caption:     Salary and rent are increasingly at odds for the residents of East Boston.
 description: Salary and rent are increasingly at odds for the residents of East Boston.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/east_boston/index.html
-  - title:   Github
-    url:     https://github.com/inspectordanno/east_boston
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/east_boston
 featured:    true
 ---
 This is an example of a project that presents a simple graphic. The simplicity belies that fact that is there is a lot of complicated code and data manipulation going on to produce the end result!

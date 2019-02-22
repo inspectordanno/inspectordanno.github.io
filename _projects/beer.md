@@ -11,11 +11,12 @@ screenshot:
 caption:     American craft beers and breweries, organized by state.
 description: American craft beers and breweries, organized by state.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     ../../project_code/craft_beer_viz/dist/index.html
-  - title:   Github
-    url:     https://github.com/inspectordanno/craft_beer_viz
+  # - title:   Github
+  #   url:     https://github.com/inspectordanno/craft_beer_viz
 featured:    true
+tag: [interactive]
 ---
 >For best experience, please view on desktop.
 
