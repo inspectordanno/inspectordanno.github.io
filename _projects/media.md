@@ -11,8 +11,8 @@ screenshot:
 caption:     An infographic display of my media usage.
 description: An infographic display of my media usage.
 links:
-  - title:   View Project
-    url:     ../../project_code/titanic/index.html
+  # - title:   View Project
+  #   url:     ../../project_code/titanic/index.html
   # - title:   Github
   #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    false

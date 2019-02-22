@@ -43,6 +43,10 @@ layout: base
 
     {% assign screenshot = project.screenshot %}
     <div class="img lead sixteen-nine">
+      <!-- this <a> tag makes the image clickable -->
+      <!-- {% for link in project.links %} -->
+      <!-- <a href="{{ link.url }}"> --> 
+      <!-- {% endfor %} -->
       {% if screenshot %}
         {% include components/hy-img.html
           img=screenshot
@@ -51,6 +55,8 @@ layout: base
           property="image"
         %}
       {% endif %}
+      <!-- </a> -->
+      <!-- end clickable <a> tag -->
     </div>
 
     {% include components/message.html text=project.description hide=page.hide_description property="description" alt="" %}
