@@ -21,8 +21,8 @@ I’m also a firm believer in the power of words. Writing is my therapy.
 I love working in roles where I serve the public interest through graphic design and code. I'm particularly interested in politics, economics, and sports. Professionally, I can see myself as a graphics reporter for a news organization, or an information designer in a storytelling capacity. However, building my skills and learning from others is definitely number one on my list, and I am flexible enough to adopt to a variety of front-end roles.
 
 ## What I'm Doing Now 
-### Updated 12-3-18
-*  Barreling through my master's thesis! I'm producing a data-driven narrative about why the U.S. should eliminate the penny. I'm currently building a scrollytelling platform using D3.js to explain why the coin is such a waste.
+### Updated 2-22-18
+*  Barreling through my master's thesis! I'm producing a data-driven narrative about why the U.S. should eliminate the penny. I'm currently building a scrollytelling platform using D3.js to explain why the coin is such a waste. I'm also supergluing pennies together for a physical exhibition at Northeastern University. Stay tuned for more.
 * Learning React from a great [course](https://www.udemy.com/react-2nd-edition/) by Andrew Mead on Udemy.
 * Teaching myself piano.
 

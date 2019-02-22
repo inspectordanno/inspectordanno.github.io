@@ -26,7 +26,7 @@ In this example, the parameter selected is a U.S. state. When the user clicks on
 
 After the user selects a state, they can select another or click the existing state to go back to the country-level.
 
-## Beginning Stumbling Blocks
+## Beginning Challenges
 
  At first, I wanted to implement a shopping cart experience where the user browses a selection of beers by type and then picks the ones they like. However, when I started making this project, I realized it was a lot more useful to summarize data from a top-down level. D3.js is very good at making charts that can link to each other and animate data when a condition is met. As soon as I embarked on this path, I realized the power of D3.js (and dare I say raw JavaScript?) at manipulating data in the browser.
 
