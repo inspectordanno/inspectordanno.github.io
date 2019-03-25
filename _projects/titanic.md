@@ -12,7 +12,7 @@ caption:     A simple, yet powerful correlation.
 description: A simple, yet powerful correlation.
 links:
   - title:   Launch Project
-    url:     ../../project_code/titanic/index.html
+    url:     https://danspector.io/titanic/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    false

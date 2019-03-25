@@ -12,7 +12,7 @@ caption:     Time to test your grade school knowledge.
 description: Time to test your grade school knowledge.
 links:
   - title:   Launch Project
-    url:     ../../project_code/trivia_game_p5
+    url:     https://danspector.io/trivia_game_p5/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/trivia_game_p5
 featured:    false

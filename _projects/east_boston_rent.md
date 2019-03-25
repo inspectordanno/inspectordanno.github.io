@@ -12,7 +12,7 @@ caption:     Salary and rent are increasingly at odds for the residents of East 
 description: Salary and rent are increasingly at odds for the residents of East Boston.
 links:
   - title:   Launch Project
-    url:     ../../project_code/east_boston/index.html
+    url:     https://danspector.io/east_boston/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/east_boston
 featured:    true

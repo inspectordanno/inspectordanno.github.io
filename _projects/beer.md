@@ -12,7 +12,7 @@ caption:     American craft beers and breweries, organized by state.
 description: American craft beers and breweries, organized by state.
 links:
   - title:   Launch Project
-    url:     ../../project_code/craft_beer_viz/dist/index.html
+    url:     https://danspector.io/craft_beer_viz/dist/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/craft_beer_viz
 featured:    true

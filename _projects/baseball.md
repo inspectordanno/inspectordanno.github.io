@@ -12,7 +12,7 @@ caption:     The greatest Major League baseball players of each decade.
 description: The greatest Major League baseball players of each decade.
 links:
   - title:   Launch Project
-    url:     ../../project_code/best_mlb_players/dist/index.html
+    url:     https://danspector.io/best_mlb_players/dist/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/best_mlb_players
 featured:    true

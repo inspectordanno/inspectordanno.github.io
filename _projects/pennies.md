@@ -11,7 +11,7 @@ screenshot:
 caption:     A data visualization about eliminating the U.S. penny from circulation.
 description: A data visualization about eliminating the U.S. penny from circulation.
 links:
-  - title:   View Project
+  - title:   Launch Project
     url:     https://pennies.wtf
   # - title:   Github
   #   url:     https://github.com/inspectordanno/titanic_survival

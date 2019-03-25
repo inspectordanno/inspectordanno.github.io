@@ -12,7 +12,7 @@ caption:     A bouncing ball simulation with collision detection.
 description: Ballpit is a bouncing ball simulation built with P5.js. It features collision detection.
 links:
   - title:   Launch Project
-    url:     ../../project_code/ballpit_p5/index.html
+    url:     https://danspector.io/ballpit_p5/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/ballpit_p5
 featured:    false
