@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       In Pennies We Trust
+title:       In Pennies We Trust, But Should We?
 date:        25 Mar 2019
 screenshot:
   src:       /img/pennies/pennies.gif
