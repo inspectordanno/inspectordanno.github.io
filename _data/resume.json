@@ -5,7 +5,7 @@
     "picture": "",
     "email": "spector.d@husky.neu.edu",
     "phone": "",
-    "website": "https://inspectordanno.github.io",
+    "website": "https://danspector.io",
     "summary": "I’m a graduate student studying information design and data visualization at Northeastern University. I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3.js. I’m also a firm believer in the power of words.",
     "location": {
       "address": "",
@@ -18,7 +18,7 @@
       {
         "network": "Github",
         "username": "inspectordanno",
-        "url": "http://github.com/inspectordanno"
+        "url": "https://github.com/inspectordanno"
       },
       {
         "network": "LinkedIn",
@@ -28,7 +28,7 @@
       {
         "network": "Twitter",
         "username": "inspectordanno",
-        "url": "http://twitter.com/inspectordanno"
+        "url": "https://twitter.com/inspectordanno"
       }
     ]
   },

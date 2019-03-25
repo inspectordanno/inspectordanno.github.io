@@ -7,9 +7,9 @@ permalink: /
 menu: false
 # title: Howdy!
 selected_projects:
+- _projects/pennies.md
 - _projects/beer.md
 - _projects/baseball.md
-- _projects/east_boston_amazon.md
 - _projects/east_boston_rent.md
 more_projects: projects.md
 featured: false

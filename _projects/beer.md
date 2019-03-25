@@ -3,11 +3,11 @@ layout:      project
 title:       A Visual Insight into American Craft Beers
 date:        24 Aug 2018
 screenshot:
-  src:       /img/beer/beer_1920.png
-  srcset:
-    1920w:   /img/beer/beer_1920.png
-    960w:    /img/beer/beer_960.png
-    480w:    /img/beer/beer_480.png
+  src:       /img/beer/beer.gif
+  # srcset:
+  #   1920w:   /img/beer/beer_1920.png
+  #   960w:    /img/beer/beer_960.png
+  #   480w:    /img/beer/beer_480.png
 caption:     American craft beers and breweries, organized by state.
 description: American craft beers and breweries, organized by state.
 links:
@@ -20,7 +20,7 @@ tag: [interactive]
 ---
 >For best experience, please view on desktop.
 
-This is the project I'm most proud of. It is a classic data visualization “dashboard”. Sometimes I cringe when I hear that word, but it's definitely the best way to describe this work. The user selects a parameter and then all the modules update based on the input. 
+Ah, the classic data visualization dashboard. The user selects a parameter and then all the modules update based on the input.
 
 In this example, the parameter selected is a U.S. state. When the user clicks on a state, the dataset (consisting of breweries and beers) is filtered down to the state level. The charts track two important summary statistics of beer: alcohol by volume and IBU. The higher a beer is in IBU, the more bitter.
 

@@ -23,6 +23,7 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.4)
+    daemons (1.3.1)
     dnsruby (1.61.2)
       addressable (~> 2.5)
     em-websocket (0.5.1)
@@ -219,6 +220,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
+    rack (2.0.6)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -238,6 +240,10 @@ GEM
       faraday (~> 0.8, < 1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    thin (1.7.2)
+      daemons (~> 1.0, >= 1.0.9)
+      eventmachine (~> 1.0, >= 1.0.4)
+      rack (>= 1, < 3)
     thread_safe (0.3.6)
     typhoeus (1.3.1)
       ethon (>= 0.9.0)
@@ -261,6 +267,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-theme-hydejack-pro!
   jekyll-titles-from-headings
+  thin
   tzinfo-data
 
 BUNDLED WITH
