@@ -12,7 +12,7 @@ caption:     A simple slideshow made in P5.js.
 description: A simple slideshow made in P5.js.
 links:
   - title:   Launch Project
-    url:     ../../project_code/personal_statement_p5/index.html
+    url:     https://danspector.io/personal_statement_p5/
   # - title:   Github
   #   url:     https://github.com/inspectordanno/personal_statement_p5
 featured:    false
