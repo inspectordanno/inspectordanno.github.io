@@ -12,7 +12,7 @@ caption:     A data visualization about eliminating the U.S. penny from circulat
 description: A data visualization about eliminating the U.S. penny from circulation.
 links:
   - title:   Launch Project
-    url:     https://pennies.wtf
+    url:     https://pennies.fyi
   # - title:   Github
   #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    true

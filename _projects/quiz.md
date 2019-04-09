@@ -17,7 +17,7 @@ links:
   #   url:     https://github.com/inspectordanno/trivia_game_p5
 featured:    false
 ---
-This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an external JSON file. For the assignment, the professor required us to use object-oriented programming. I was the only one in the class using JavaScript (most were using Processing, a Java paradigm), so this was a little harder for my implementation.
+This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an external JSON file. For the assignment, the professor required us to use object-oriented programming. I was the only one in the class using JavaScript (most were using Processing, a Java paradigm), so this was a little more challenging for my implementation. JavaScript, unlike Java, is not a class-based programming language. That said, the ES6 class syntactic sugar mapped fairly well and I was still able to emulate the class-based thinking of a language like Java.
 
 ## Functionality 
 
@@ -45,14 +45,14 @@ This is a quiz about U.S. state capitals. It is coded in P5.js, and loads an ext
 
 ## Post Mortem
 
-I finally understand why OOP in JavaScript is not the popular paradigm in 2018. I encountered more problems with this project than I intended, and I think a lot of it had to do with porting the object-oriented template over to JavaScript (especially because I have never used OOP with JavaScript before). I am very grateful for all the help I received to make this work, and I am glad to say I achieved ~95% of the functionality I envisioned. Let me illustrate some of the problems that I battled in this project.
+This was the first fully object-oriented project I created from scratch using ES6 classes. I am glad to say I achieved ~95% of the functionality I envisioned. Let me illustrate some of the challenges that I encountered in this project.
 
-First, I ran into a lot of encapsulation issues, which is something that plagues me even when I do procedural / functional programming. I declared a lot of global variables, modified them in object methods, and then found that the variables were not being changed to what I expected. I haven’t really found an answer for this yet, since P5 requires global variables that can be accessed both in setup and draw. Somehow, through trial and error, I managed to overcome the encapsulation issues.
+First, I ran into a lot of encapsulation issues. I declared a lot of global variables, modified them in object methods, and then found that the variables were not being changed to what I expected. I haven’t really found an answer for this yet, since P5 requires global variables that can be accessed both in setup and draw. Somehow, through trial and error, I managed to overcome the encapsulation issues.
 Changing state was also difficult for me. I managed to achieve it by writing a gargantuan if/else statement many levels deep, but this solution was not elegant. 
 
 I was able to map the possible answers to the buttons by using their index values and mapping them to values I set to the buttons. One of the advantages of creating DOM elements is that it is very easy to create individual objects and assign data to them, so this solution worked well for me.
 
-Overall, I definitely learned a lot from this project.  Structuring JavaScript in an object-oriented pattern is not usually my strategy of choice, but it was helpful to learn the philosophy. I used a lot of ```Math.random()``` and comparison logic in this program, which is always good to improve upon. I also learned a lot about changing state through switch statements.
+Overall, I definitely learned a lot from this project.  Structuring JavaScript in an object-oriented classes pattern is a very useful paradigm to understand. I used a lot of ```Math.random()``` and comparison logic in this program, which is always good to improve upon. I also learned a lot about changing state through switch statements.
 
 In terms of the core programmatic logic, this project is one of the most complex I have made so far, which belies the simplicity of the game. I also was able to make the canvas somewhat responsive for all screen sizes, which speaks to the power of the P5 width and height attributes.
 Initializing sound was far easier than I expected. All I had to do was preload sound files that played depending if the answer was correct or not. 
