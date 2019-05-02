@@ -1,6 +1,6 @@
 ---
 layout: welcome
-cover: true
+cover: false
 # image: /assets/img/hydejack-8.jpg
 hide_description: true
 permalink: /
@@ -14,8 +14,7 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer, designer, and writer. I study information design and data visualization
-as a graduate student at [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
+I'm Dan. 🎉 I'm a developer, designer, and writer. I just graduated with a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
 
 [Learn more about me.](./about.md)
 ### These are the projects I am most proud of:
