@@ -14,9 +14,13 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer, designer, and writer. I just graduated with a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston, MA.
+I'm Dan. 🎉 I'm a developer, designer, and writer in New York. I just got a job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). 
 
-[Learn more about me.](./about.md)
+I have a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
+
+If you want to contact me, email is your best bet: spector at fastmail dot com.
+
+[Learn even more about me.](./about.md)
 ### These are the projects I am most proud of:
 
 <!--projects-->
