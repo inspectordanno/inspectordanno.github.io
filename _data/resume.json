@@ -3,16 +3,15 @@
     "name": "Dan Spector",
     "label": "Front-end developer, data visualization designer, writer",
     "picture": "",
-    "email": "spector.d@husky.neu.edu",
+    "email": "spector@fastmail.com",
     "phone": "",
     "website": "https://danspector.io",
-    "summary": "I’m a developer, designer, and writer. I just graduated with a master’s degree in information design and data visualization from Northeastern University. I enjoy making graphics and interactives to explain concepts and data. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3 and React. I’m looking for a job as a web developer and am flexible enough to adapt to a variety of roles.",
-    "location": {
+    "summary": "I’m a developer, designer, and writer. I work as a graphics reporter at the Wall Street Journal. I enjoy making graphics and interactives to explain concepts and data. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3 and React.",
       "address": "",
       "postalCode": "",
-      "city": "Boston",
+      "city": "New York",
       "countryCode": "US",
-      "region": "Massachusetts"
+      "region": "New York"
     },
     "profiles": [
       {
@@ -30,20 +29,32 @@
         "username": "inspectordanno",
         "url": "https://twitter.com/inspectordanno"
       }
-    ]
-  },
+    ],
   "work": [
+    {
+      "company": "The Wall Street Journal",
+      "position": "Graphics Reporter",
+      "website": "",
+      "startDate": "2019-07-11",
+      "endDate": "",
+      "summary": "I create static and interactive graphics in a newsroom environment, as well as perform data analysis.",
+      "highlights": [
+        "Produce graphics for print on deadline with Adobe Illustrator",
+        "Tame and interpret big data sets with R",
+        "Develop interactive graphics in a modern JavaScript environment"
+      ]
+    },
     {
       "company": "Northeastern University",
       "position": "Information Design Student",
       "website": "",
       "startDate": "2017-09-01",
       "endDate": "2019-05-01",
-      "summary": " I created visual, data-driven applications in a studio environment as part of my graduate studies.",
+      "summary": "I created visual, data-driven applications in a studio environment as part of my graduate studies.",
       "highlights": [
-        "Tackled design challenges through individual and team project work",
-        "Produced an interactive data visualization about why the U.S. should eliminate the penny for my master's thesis",
-        "Visualized the American craft beer industry from a geographic perspective"
+        "Developed an interactive thesis about why the penny should be eliminated",
+        "Analyzed the U.S. craft beer industry according to geography, beer style, and chemistry",
+        "Visualized rent poverty in a gentrifying neighborhood of Boston"
       ]
     },
     {
@@ -57,19 +68,6 @@
         "Crafted a speaker reel for the CEO, spending months iterating and revising footage",
         "Edited video from conferences about women in the workplace issues and female executive career growth",
         "Revamped company marketing strategy on social media"
-      ]
-    },
-    {
-      "company": "Township Library of Lower Southampton",
-      "position": "Library Assistant / Web Content Producer",
-      "website": "",
-      "startDate": "2015-06-01",
-      "endDate": "2016-12-31",
-      "summary": "I served as a circulation assistant at a busy suburban library. I also headed all marketing and information initiatives for the library website.",
-      "highlights": [
-        "Assisted patrons with book checkout in an efficient and organized manner",
-        "Curated library website with programming information and author bios",
-        "Wrote articles detailing local happenings in the library community"
       ]
     }
   ],
