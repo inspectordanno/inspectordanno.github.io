@@ -31,7 +31,7 @@ I love working in roles where I serve the public interest through graphic design
     * I know everyone opts for the pastrami, but the turkey is so underrated.
   * Cracked my phone through my pants while going through a subway turnstile, and got it fixed the next morning in 15 minutes. 
     * [At this place.](https://www.yelp.com/biz/ifix-shop-new-york-5)
-  * Despite being a fan of [Michael McDonald](https://en.wikipedia.org/wiki/Michael_McDonald_(musician)), I just learned that he was in the [Doobie Brothers](https://www.youtube.com/watch?v=dJe1iUuAW4M). 
+  * Despite being a fan of [Michael McDonald](https://en.wikipedia.org/wiki/Michael_McDonald_(musician)), I just learned that he was in [The Doobie Brothers](https://www.youtube.com/watch?v=dJe1iUuAW4M). 
     * The same thing happened to me a few years ago with Dave Grohl and Nirvana. 
     * This doesn't really have to do with living in New York.
   
