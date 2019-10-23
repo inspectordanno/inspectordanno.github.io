@@ -14,7 +14,7 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer, designer, and writer in New York. I just got a job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). 
+I'm Dan. 🎉 I'm a developer, designer, and writer in New York. I work as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). 
 
 I have a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
 
