@@ -8,9 +8,11 @@ menu: false
 # title: Howdy!
 selected_projects:
 - _projects/pennies.md
+- _projects/college.md
 - _projects/beer.md
+- _projects/population.md
 - _projects/baseball.md
-- _projects/east_boston_rent.md
+- _projects/urban.md
 more_projects: projects.md
 featured: false
 ---
