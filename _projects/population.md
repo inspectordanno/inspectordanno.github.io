@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Urban Population of Africa, Latin America, and Asia
-date:        15 Dec 2019
+date:        19 Nov 2019
 screenshot:
   src:         /img/population/population.gif
   # srcset:
@@ -13,11 +13,11 @@ description: A data visualization showing urban population in several world regi
 links:
   - title:   Launch Project
     url:     https://danspector.io/urban_population/
-  - title:   Github
-    url:     https://github.com/inspectordanno/urban_population
+  # - title:   Github
+  #  url:     https://github.com/inspectordanno/urban_population
 featured:    true
 ---
-A simple data visualization that shows projected urban population.
+A simple data visualization that shows projected urban population. View the [code](https://github.com/inspectordanno/urban_population).
 
 All DOM manipulation is powered entirely by React, including the transitions. Amazing!
 

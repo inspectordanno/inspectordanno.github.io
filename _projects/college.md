@@ -8,8 +8,8 @@ screenshot:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png
   #   480w:    /img/media/media_480.png
-caption:     A WSJ project visualizing debt and income amongst U.S. universities.
-description: A WSJ project visualizing debt and income amongst U.S. universities.
+caption:     A WSJ project visualizing debt and income among U.S. universities.
+description: A WSJ project visualizing debt and income among U.S. universities.
 links:
   - title:   Launch Project
     url:     https://www.wsj.com/articles/which-college-graduates-make-the-most-11574267424

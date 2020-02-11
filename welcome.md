@@ -12,7 +12,6 @@ selected_projects:
 - _projects/beer.md
 - _projects/population.md
 - _projects/baseball.md
-- _projects/urban.md
 more_projects: projects.md
 featured: false
 ---

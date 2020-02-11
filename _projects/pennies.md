@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       In Pennies We Trust, But Should We?
-date:        25 Mar 2019
+date:        01 Jan 2020
 screenshot:
   src:       /img/pennies/pennies.gif
   # srcset:
