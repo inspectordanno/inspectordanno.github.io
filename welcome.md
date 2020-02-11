@@ -14,9 +14,11 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer, designer, and writer in New York. I work as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). 
+I'm Dan. 🎉 I'm a developer, designer, and data journalist in New York. I just finished up a temporary job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com), where I did a lot of data visualization.
 
-I have a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
+I'm looking for a front-end position right now. I'm great with React and D3 in particular!
+
+I have a M.F.A. in [Information Design and Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
 If you want to contact me, email is your best bet: spector at fastmail dot com.
 
