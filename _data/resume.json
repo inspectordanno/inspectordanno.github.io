@@ -109,14 +109,13 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front-End Development",
       "level": "",
       "keywords": [
         "HTML",
         "CSS",
         "JavaScript",
         "TypeScript",
-        "Node",
         "Webpack",
         "D3",
         "React",
@@ -124,6 +123,15 @@
         "P5 (Processing)",
         "Flexbox",
         "CSS Grid"
+      ]
+    },
+    { "name": "Back-End Development",
+      "level": "",
+      "keywords": [
+        "Node",
+        "Express",
+        "REST API",
+        "MongoDB"
       ]
     },
     {
@@ -151,7 +159,7 @@
   "interests": [
     {
       "name": "Writing",
-      "keywords": ["Blogging", "Fiction"]
+      "keywords": ["Journaling", "Interactive Fiction"]
     },
     {
       "name": "Music",
@@ -159,7 +167,7 @@
     },
     {
       "name": "Reading",
-      "keywords": ["Books", "News"]
+      "keywords": ["Novels", "News"]
     },
     {
       "name": "Watching sports",
