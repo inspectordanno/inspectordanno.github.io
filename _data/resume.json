@@ -116,13 +116,11 @@
         "CSS",
         "JavaScript",
         "TypeScript",
-        "Webpack",
-        "D3",
         "React",
         "Angular",
-        "P5 (Processing)",
-        "Flexbox",
-        "CSS Grid"
+        "Webpack",
+        "D3",
+        "P5 (Processing)"
       ]
     },
     { "name": "Back-End Development",
