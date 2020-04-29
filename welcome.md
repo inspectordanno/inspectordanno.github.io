@@ -15,7 +15,7 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer with a strong interest in data visualization and journalism. I just finished up a temporary job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com), where I worked with reporters to visualize the news.
+I'm Dan. 🎉 I'm a developer with a strong interest in data visualization and journalism. I just finished up a temporary job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com), where I worked with journalists to visualize the news.
 
 I'm looking for a web developer position right now. I love using JavaScript, React and D3. While I'm more front-end focused, I can also spin up an API in the Node-Express-MongoDB stack. For data analysis, I enjoy R.
 
