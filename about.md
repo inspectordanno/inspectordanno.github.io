@@ -9,10 +9,10 @@ title: About Me
 ---
 ![dan_spector](/img/dan.jpg)
 
-I'm a developer, designer, and data journalist in New York, working mostly with front-end web technologies. Previously, I was a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). I graduated with a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
+I'm a developer, data visualization designer, and journalist in New York, working mostly with front-end web technologies. Previously, I was a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com). I graduated with a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
 
 ## What I Like Doing
-I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3 and React. I also do data analysis in R and static design in Illustrator.
+I enjoy making graphics and interactive toys to explain concepts and data. I especially like undertaking projects where I can build a narrative that presents a big idea. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3 and React. I also do data analysis in R, static design in Illustrator, and back-end in the Node-Express-MongoDB stack.
 
 I’m also a firm believer in the power of words. Writing is my therapy.
 
