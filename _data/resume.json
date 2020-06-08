@@ -140,7 +140,7 @@
     {
       "name": "Data Analysis",
       "level": "",
-      "keywords": ["R"]
+      "keywords": ["R", "Tidyverse"]
     },
     {
       "name": "Video Production",
@@ -150,10 +150,10 @@
     {
       "name": "Writing and Editing",
       "level": "",
-      "keywords": ["English"]
+      "keywords": []
     }
   ],
-  "languages": [],
+  "languages": ["JavaScript", "R", "Python", "English"],
   "interests": [
     {
       "name": "Writing",

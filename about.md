@@ -20,10 +20,9 @@ I’m also a firm believer in the power of words. Writing is my therapy.
 I love working in roles where I serve the public interest through graphic design and code. I'm particularly interested in politics, economics, and sports. Professionally, I can see myself as a graphics reporter for a news organization, or an information designer in a storytelling capacity. However, building my skills and learning from others is definitely number one on my list, and I am flexible enough to adopt to a variety of web development roles.
 
 ## What I'm Doing Now 
-### Updated 04-29-20
+### Updated 06-01-20
 
-* Looking for a new job in the area of front-end development. I love working with React in particular, and also do a lot of data visualization work with D3. If you know anything in this general tech stack, please let me know!
-* Learning Python and Flask!
+* Finishing up the *No B.S. COVID Tracker*. Check back soon!
 * Exploring the square mile around my parent's house with tenacity.
   
 
