@@ -109,13 +109,22 @@
   "publications": [],
   "skills": [
     {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "R",
+        "Python",
+        "English"
+      ]
+    },
+    {
       "name": "Front-End Development",
       "level": "",
       "keywords": [
         "HTML",
         "CSS",
-        "JavaScript",
-        "TypeScript",
         "React",
         "D3",
         "Webpack",
@@ -140,7 +149,7 @@
     {
       "name": "Data Analysis",
       "level": "",
-      "keywords": ["R", "Tidyverse"]
+      "keywords": ["Tidyverse"]
     },
     {
       "name": "Video Production",
