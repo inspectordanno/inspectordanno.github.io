@@ -153,7 +153,20 @@
       "keywords": []
     }
   ],
-  "languages": ["JavaScript", "R", "Python", "English"],
+  "languages": [
+    {
+      "language": "JavaScript"
+    },
+    {
+      "language": "R"
+    },
+    {
+      "language": "Python"
+    },
+    {
+      "language": "English"
+    }
+  ],
   "interests": [
     {
       "name": "Writing",
