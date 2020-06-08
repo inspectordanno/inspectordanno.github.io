@@ -117,10 +117,10 @@
         "JavaScript",
         "TypeScript",
         "React",
-        "Angular",
-        "Webpack",
         "D3",
-        "P5 (Processing)"
+        "Webpack",
+        "P5 (Processing)",
+        "Gatsby"
       ]
     },
     { "name": "Back-End Development",
@@ -153,20 +153,7 @@
       "keywords": []
     }
   ],
-  "languages": [
-    {
-      "language": "JavaScript"
-    },
-    {
-      "language": "R"
-    },
-    {
-      "language": "Python"
-    },
-    {
-      "language": "English"
-    }
-  ],
+  "languages": [],
   "interests": [
     {
       "name": "Writing",
