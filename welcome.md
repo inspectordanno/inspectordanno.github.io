@@ -15,9 +15,9 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer with a strong interest in data visualization, design, and journalism. I just finished up a temporary job as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com), where I worked with coders, designers, and writers to visualize the news.
+I'm Dan. 🎉 I'm a developer with a strong interest in data visualization, design, and journalism. Previously, I worked as a graphics reporter at the [Wall Street Journal](https://graphics.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
- I love using JavaScript, React, Node, and D3.
+HTML, CSS, JavaScript, React, Node, D3, and the written word are my homies!
 
 I have a M.F.A. in [Information Design and Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
