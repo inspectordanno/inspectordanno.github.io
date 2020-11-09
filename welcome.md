@@ -18,7 +18,7 @@ featured: false
 ---
 I'm Dan. 🎉 I'm a developer with a strong interest in data visualization, design, and journalism.
 
-I'm currently working as web developer at McKinsey, where I make graphics and interactives for readers at [McKinsey.com](https://www.mckinsey.com).
+I'm currently working as web developer and data visualization engineer at McKinsey, where I make graphics and interactives for readers at [McKinsey.com](https://www.mckinsey.com).
 
 Previously, I worked as a graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
