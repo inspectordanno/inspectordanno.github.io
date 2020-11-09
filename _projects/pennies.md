@@ -1,9 +1,9 @@
 ---
 layout:      project
 title:       In Pennies We Trust, But Should We?
-date:        01 Jan 2020
+date:        01 Nov 2020
 screenshot:
-  src:       /img/pennies/pennies.gif
+  src:       /img/penny/penny.gif
   # srcset:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png
@@ -17,7 +17,7 @@ links:
   #   url:     https://github.com/inspectordanno/titanic_survival
 featured:    true
 ---
->Not currently optimized for mobile, but I'm working on it!
+>Not currently optimized for mobile, please view on desktop for now!
 >Please view in Chrome or Safari.
 
 Eliminating the American penny, explained with data visualization. Created as part of a master's thesis in information design and visualization at Northeastern University in 2019.

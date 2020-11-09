@@ -20,9 +20,13 @@ I’m also a firm believer in the power of words. Writing is my therapy.
 I love working in roles where I serve the public interest through graphic design and code. I'm particularly interested in politics, economics, and sports. Professionally, I can see myself as a graphics reporter for a news organization, or an information designer in a storytelling capacity. However, building my skills and learning from others is definitely number one on my list, and I am flexible enough to adopt to a variety of web development roles.
 
 ## What I'm Doing Now 
-### Updated 06-01-20
+### Updated 11-08-20
 
-* Finishing up the *No B.S. COVID Tracker*. Check back soon!
-* Exploring the square mile around my parent's house with tenacity.
+* Finishing up the *No B.S. COVID Tracker*
+* Selling stuff on Craigslist.
+* Learning the solo from [Fun Fun Fun](https://www.youtube.com/watch?v=JK7DA0FliIs) by The Beach Boys.
+* Meditating and trying to accept.
+* For the first time in a long time, feeling cautiously optimistic about the American political process. *Knocks wood vigorously*
+* Going to the park, where I don't have to try hard to social distance.
   
 

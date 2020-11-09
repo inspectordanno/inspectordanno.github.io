@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Dan Spector",
-    "label": "Front-end developer, data visualization designer, journalist",
+    "label": "Web developer, data visualization designer, journalist",
     "picture": "",
-    "email": "spector@fastmail.com",
+    "email": "spector at fastmail dot com",
     "phone": "",
     "website": "https://danspector.io",
-    "summary": "I’m a developer, data visualization designer, and journalist. I previously worked as a graphics reporter at the Wall Street Journal. I enjoy making graphics and interactives to explain concepts and data. Most of my work utilizes HTML, CSS, JavaScript, and frameworks like D3 and React. I also do data analysis in R and static design in Illustrator.",
+    "summary": "I’m a web developer with a master’s degree in information design and data visualization. I’m front-end focused and very excited about the intersection of data, design, and code. Most of my work utilizes HTML, CSS, modular JavaScript, Node.js, and frameworks like D3 and React.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -24,15 +24,23 @@
         "network": "LinkedIn",
         "username": "dan-spector",
         "url": "https://www.linkedin.com/in/dan-spector"
-      },
-      {
-        "network": "Twitter",
-        "username": "inspectordanno",
-        "url": "https://twitter.com/inspectordanno"
       }
     ]
   },
   "work": [
+    {
+      "company": "McKinsey & Company",
+      "position": "Web Developer, Data Visualization Engineer",
+      "website": "",
+      "startDate": "2020-06-08",
+      "endDate": "",
+      "summary": "I create data visualizations and interactives for readers at McKinsey.com, working with publishing stakeholders at a top consulting firm.",
+      "highlights": [
+        "Craft delightful public-facing projects showcasing McKinsey research",
+        "Collaborate in a multidisciplinary team of editors, writers, and designers",
+        "Highlights include “McKinsey for Kids”, “Do You Know Your Life’s Purpose?”, and “Nine Scenarios for the COVID-19 Economy”"
+      ]
+    },
     {
       "company": "The Wall Street Journal",
       "position": "Graphics Reporter",
