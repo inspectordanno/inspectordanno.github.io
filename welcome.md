@@ -26,8 +26,6 @@ My homies: HTML, CSS, JavaScript, React, Node, D3, R, and the written word.
 
 I have a M.F.A. in [Information Design and Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
-If you want to contact me, email is your best bet: spector at fastmail dot com.
-
 [Learn even more about me.](./about.md)
 ### These are the projects I am most proud of:
 
