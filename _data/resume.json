@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Dan Spector",
-    "label": "Web developer, data visualization designer, journalist",
+    "label": "Front-end engineering, data visualization, journalism",
     "picture": "",
     "email": "",
     "phone": "",
     "website": "https://danspector.io",
-    "summary": "I’m a web developer with a master’s degree in information design and data visualization. I’m front-end focused and very excited about the intersection of data, design, and code. Most of my work utilizes HTML, CSS, modular JavaScript, Node.js, and frameworks like D3 and React.",
+    "summary": "I’m a front-end software engineer with a passion for design, data visualization, and interactive experiences that educate and inspire. I have a master’s degree in information design and data visualization. I’m front-end focused and very excited about the intersection of data, design, and code. Most of my work utilizes HTML, CSS, modular JavaScript, Node.js, D3, and modern declarative frameworks like React and Svelte.",
     "location": {
       "address": "",
       "postalCode": "",
