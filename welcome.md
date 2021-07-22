@@ -8,7 +8,9 @@ menu: false
 # title: Howdy!
 selected_projects:
 - _projects/pennies.md
-- _projects/mckinsey_kids.md
+- _projects/fashion.md
+- _projects/conservation.md
+- _projects/food_waste.md
 - _projects/life_purpose.md
 - _projects/covid_scenarios.md
 - _projects/college.md
@@ -16,13 +18,13 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a developer with a strong interest in data visualization, design, and journalism.
+I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and journalism.
 
-I'm currently working as web developer and data visualization engineer at McKinsey, where I make graphics and interactives for readers at [McKinsey.com](https://www.mckinsey.com).
+I'm currently working as a front-end engineer and data visualization developer at McKinsey, where I make graphics and interactives for readers at [McKinsey.com](https://www.mckinsey.com).
 
-Previously, I worked as a graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
+Previously, I worked as a front-end engineer and graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
-My homies: HTML, CSS, JavaScript, React, Node, D3, R, and the written word.
+My homies: HTML, CSS, JavaScript, React, Svelte, Node, D3, R, and the written word.
 
 I have a M.F.A. in [Information Design and Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 

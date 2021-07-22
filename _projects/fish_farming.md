@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       McKinsey for Kids
+title:       Fish Farming - McKinsey for Kids
 date:        29 Oct 2020
 screenshot:
   src:         /img/fish/fish.gif
@@ -8,8 +8,8 @@ screenshot:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png
   #   480w:    /img/media/media_480.png
-caption:     A fish-themed adventure describing McKinsey to a younger audience.
-description: A fish-themed adventure describing McKinsey to a younger audience.
+caption:     Explaing fish farming in a kid-friendly way.
+description: Explaing fish farming in a kid-friendly way.
 links:
   - title:   Launch Project
     url:     https://www.mckinsey.com/featured-insights/mckinsey-for-kids/hungry-fish-baffled-farmers-and-what-happened-next
