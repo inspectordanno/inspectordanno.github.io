@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Dan Spector",
-    "label": "Front-end engineering, data visualization, journalism",
+    "label": "Front-end engineering, data visualization, data journalism",
     "picture": "",
     "email": "",
     "phone": "",
     "website": "https://danspector.io",
-    "summary": "I’m a front-end software engineer with a passion for design, data visualization, and interactive experiences that educate and inspire. I have a master’s degree in information design and data visualization. I’m front-end focused and very excited about the intersection of data, design, and code. Most of my work utilizes HTML, CSS, modular JavaScript, Node.js, D3, and modern declarative frameworks like React and Svelte.",
+    "summary": "I’m a front-end software engineer with a passion for design, data visualization, and interactive experiences that educate and inspire. I have a master’s degree in information design and data visualization. I’m very excited about the intersection of data, design, and code. Most of my work utilizes HTML, CSS, modular JavaScript, Node.js, D3, and modern declarative frameworks like React and Svelte.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,7 +30,7 @@
   "work": [
     {
       "company": "McKinsey & Company",
-      "position": "Front-end engineer, Data Visualization Developer",
+      "position": "Front-End Engineer, Data Visualization Developer",
       "website": "",
       "startDate": "2020-06-08",
       "endDate": "",
@@ -43,7 +43,7 @@
     },
     {
       "company": "The Wall Street Journal",
-      "position": "Front-end engineer, Graphics Reporter (temporary full-time contract)",
+      "position": "Front-End Engineer, Graphics Reporter (full-time contract)",
       "website": "",
       "startDate": "2019-07-11",
       "endDate": "2019-12-06",
@@ -150,11 +150,6 @@
         "MongoDB",
         "GraphQL"
       ]
-    },
-    {
-      "name": "Data Analysis",
-      "level": "",
-      "keywords": ["Tidyverse"]
     },
     {
       "name": "Writing and Editing",

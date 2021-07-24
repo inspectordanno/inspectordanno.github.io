@@ -20,7 +20,7 @@ I’m also a firm believer in the power of words.
 I really like front-end engineering - I'm most comfortable in code, but I also love to talk design, UX, and story. I use React (with hooks) a ton, and can contribute right away in jobs with that stack. I have some experience with JavaScript back-end, and would like to get more, especially with GraphQL. Finally, I'm looking to learn and grow in a team. In terms of engineering experience, I'm on the border between mid-level and senior: I can do most things on my own already, but would benefit from more structure. I am looking for teams that promote collaboration, scoping, and realistic deadlines. And kindness. ☺️
 
 ## What I'm Doing Now 
-### Updated 7-21-20
+### Updated 7-24-21
 
 * Readjusting to life in NYC.
 * Accepting.

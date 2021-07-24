@@ -24,14 +24,14 @@ title: Dan Spector
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  Front-end developer, data visualization designer, journalist.
+  Front-end engineer
 
 # A shorter description for the sidebar.
 tagline: >
-  Development, data viz, journalism
+  Front-end engineer
 
 # A list of keywords for your blog
-keywords: [data journalism, front-end development, writing, dan spector, data visualization, viz]
+keywords: [data journalism, front-end development, writing, dan spector, data visualization, data viz]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
