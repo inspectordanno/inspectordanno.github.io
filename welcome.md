@@ -27,7 +27,7 @@ Previously, I worked as a front-end engineer and graphics reporter at [The Wall 
 
 My homies: HTML, CSS, JavaScript, React, Svelte, Node, D3, R, and the written word.
 
-I have a M.F.A. in [Information Design and Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
+I have a M.F.A. in [Information Design and Data Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
 You can reach me at dspector -at- protonmail -dot- com.
 

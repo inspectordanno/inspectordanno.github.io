@@ -20,4 +20,4 @@ featured:    true
 >Not currently optimized for mobile, please view on desktop for now!
 >Please view in Chrome or Safari.
 
-Eliminating the American penny, explained with data visualization. Created as part of a master's thesis in information design and visualization at Northeastern University in 2019.
+Eliminating the American penny, explained with data visualization. Created as part of a master's thesis in information design and data visualization at Northeastern University in 2019.
