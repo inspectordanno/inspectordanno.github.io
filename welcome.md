@@ -8,8 +8,8 @@ menu: false
 # title: Howdy!
 selected_projects:
 - _projects/pennies.md
-- _projects/fashion.md
 - _projects/future_of_work.md
+- _projects/fashion.md
 - _projects/life_purpose.md
 - _projects/covid_scenarios.md
 - _projects/beer.md

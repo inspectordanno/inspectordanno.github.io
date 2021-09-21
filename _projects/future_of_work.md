@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Future of Work - McKinsey for Kids
-date:        19 Sept 2021
+date:        20 Sept 2021
 screenshot:
   src:         /img/future_of_work/future_of_work.gif
   # srcset:
