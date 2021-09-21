@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Which College Graduates Make the Most?
-date:        20 Nov 2019
+date:        14 Sept 2021
 screenshot:
   src:         /img/college/college.gif
   # srcset:

@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Diversity and Inclusion in the U.S. fashion industry
-date:        20 Jul 2021
+date:        20 Sept 2021
 screenshot:
   src:       /img/fashion/fashion.gif
   # srcset:

@@ -9,12 +9,13 @@ menu: false
 selected_projects:
 - _projects/pennies.md
 - _projects/fashion.md
-- _projects/conservation.md
-- _projects/food_waste.md
+- _projects/future_of_work.md
 - _projects/life_purpose.md
 - _projects/covid_scenarios.md
-- _projects/college.md
 - _projects/beer.md
+- _projects/conservation.md
+- _projects/college.md
+- _projects/food_waste.md
 more_projects: projects.md
 featured: false
 ---

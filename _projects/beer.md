@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       A Visual Insight into American Craft Beers
-date:        24 Aug 2018
+date:        16 Sept 2021
 screenshot:
   src:       /img/beer/beer.gif
   # srcset:

@@ -1,9 +1,9 @@
 ---
 layout:      project
 title:       Food Waste - McKinsey for Kids
-date:        23 Mar 2021
+date:        13 Sept 2021
 screenshot:
-  src:         /img/food/food.gif
+  src:         /img/food_waste/food_waste.gif
   # srcset:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png

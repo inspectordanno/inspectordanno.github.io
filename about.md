@@ -23,9 +23,8 @@ I really like front-end engineering - I'm most comfortable in code, but I also l
 You can reach me at dspector -at- protonmail -dot- com.
 
 ## What I'm Doing Now 
-### Updated 7-24-21
+### Updated 9-21-21
 
-* Readjusting to life in NYC.
-* Accepting.
+* Did you know that you can freeze smoothies and then eat them later? That's pretty much what I've been up to.
   
 

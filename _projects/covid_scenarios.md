@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Nine scenarios for the COVID-19 economy
-date:        27 Oct 2020
+date:        17 Sept 2021
 screenshot:
   src:         /img/covid/covid.gif
   # srcset:

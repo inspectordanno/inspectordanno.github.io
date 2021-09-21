@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       Do You Know Your Life’s Purpose?
-date:        29 Oct 2020
+date:        18 Sept 2021
 screenshot:
   src:         /img/purpose/purpose.gif
   # srcset:
