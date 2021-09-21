@@ -19,9 +19,9 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and journalism.
+I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and interactive experiences that educate and inspire.
 
-I'm currently working as a front-end engineer and data visualization developer at McKinsey, where I make interactive explainers for readers at [McKinsey.com](https://www.mckinsey.com).
+I'm currently working as a front-end engineer and data visualization developer at McKinsey, where I make explainers for readers at [McKinsey.com](https://www.mckinsey.com).
 
 Previously, I worked as a front-end engineer and graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
