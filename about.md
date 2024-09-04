@@ -29,5 +29,8 @@ You can reach me at dspector -at- protonmail -dot- com.
 ## What I'm Doing Now 
 
 * Trying every hipster vegan ingredient in my overnight oats and seeing what turns out edible.
+* Chess. Specifically online at 1am. I am proud to say that I am hovering at 350 ELO. ♟️ 🫠
+* Pickleball. Yes, I have finally seen the value of running up to volley.
+* Drinking a lot of [Athletic NA IPA](https://athleticbrewing.com/products/run-wild).
   
 

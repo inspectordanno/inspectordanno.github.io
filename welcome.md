@@ -19,13 +19,15 @@ selected_projects:
 more_projects: projects.md
 featured: false
 ---
-I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and interactive experiences that educate and inspire.
+I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and interactive experiences that inspire and are easy-to-use.
 
-I'm currently working as a front-end engineer and data visualization developer at McKinsey, where I make explainers for readers at [McKinsey.com](https://www.mckinsey.com).
+I'm currently working as a front-end engineer at McKinsey. [McKinsey.com](https://www.mckinsey.com). My work falls into two camps: creating reusable UI components, data-driven interactives, and microsites for a public audience across all screens; and developing internal tooling to improve the way McKinsey publishes content online.
 
 Previously, I worked as a front-end engineer and graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
-My homies: HTML, CSS, JavaScript, React, Svelte, Node, D3, R, and the written word.
+My alphabet-soup tech stack homies: HTML, CSS, JavaScript, React, Svelte, D3, Node.js, Github Actions
+
+Technologies I've used in the past that I'd love to get more experience with: GraphQL, Python, and Docker.
 
 I have a M.F.A. in [Information Design and Data Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
