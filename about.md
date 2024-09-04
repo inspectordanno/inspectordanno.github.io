@@ -21,7 +21,7 @@ I’m also a firm believer in the power of words. And dark mode! (I promise the 
 ## A job that would be a good fit
 I really like front-end engineering - I'm most comfortable in code, but I also love to talk design and UX. I use React a ton, so I can contribute on that stack right-away. I have some experience with JavaScript back-end, and would like to get more, especially with GraphQL. 
 
-I'm looking to learn and grow in a well-defined engineering team. In terms of experience, I'm on the border between mid-level and senior: I can do most front-end things on my own, but would benefit from more structure, as well as foray into full-stack dev in a "safe-space". I am looking for teams that promote collaboration, scoping, and realistic deadlines. And kindness. ☺️
+I'm looking to learn and grow in a well-defined engineering team. In terms of experience, I'm on the border between mid-level and senior: I can do most front-end things on my own, but would benefit from more team structure, and would love to foray into full-stack dev in a "safe-space". I am looking for teams that promote collaboration, scoping, and realistic deadlines. And kindness. ☺️
 
 ## Contact me
 You can reach me at dspector -at- protonmail -dot- com.
