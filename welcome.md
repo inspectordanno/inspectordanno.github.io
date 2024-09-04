@@ -7,11 +7,11 @@ permalink: /
 menu: false
 # title: Howdy!
 selected_projects:
-- _projects/pennies.md
 - _projects/future_of_work.md
 - _projects/fashion.md
 - _projects/life_purpose.md
 - _projects/covid_scenarios.md
+- _projects/pennies.md
 - _projects/beer.md
 - _projects/conservation.md
 - _projects/college.md
