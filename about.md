@@ -12,7 +12,7 @@ title: About Me
  I’m a front-end software engineer with a passion for design, data visualization, and interactive experiences that inspire and are easy to use. I'm currently working at McKinsey, where I code up all kinds of UI knick-knacks for McKinsey.com readers. Previously, I was a front-end engineer and graphics developer at the [Wall Street Journal](https://graphics.wsj.com). I graduated with a master's degree in information design and data visualization from [Northeastern University](https://www.northeastern.edu/visualization/) in Boston.
 
 ## What I can do
-I consider myself a front-end engineer first and foremost. Most of my work utilizes HTML, CSS, and JavaScript. Frameworks that I like include React, Svelte, and D3. I love the simplicitly and scalability of a well-designed front-end bundler - lately I'm loving[Vite](https://vitejs.dev). I use Node.js for scripting purposes and have built back-end APIs with Express.js and GraphQL.
+I consider myself a front-end engineer first and foremost. Most of my work utilizes HTML, CSS, and JavaScript. Frameworks that I like include React, Svelte, and D3. I love the simplicitly and scalability of a well-designed front-end bundler - lately I'm loving [Vite](https://vitejs.dev). I use Node.js for scripting purposes and have built back-end APIs with Express.js and GraphQL.
 
 Other things I think are important: accessibility, designing for all screens, not pushing [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern), being able to communicate to non-technical folk about a technology, and telling a story through design. 
 
