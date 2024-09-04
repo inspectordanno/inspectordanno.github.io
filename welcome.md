@@ -21,7 +21,7 @@ featured: false
 ---
 I'm Dan. 🎉 I'm a front-end engineer with a strong interest in data visualization, design, and interactive experiences that inspire and are easy-to-use.
 
-I'm currently working as a front-end engineer at McKinsey. [McKinsey.com](https://www.mckinsey.com). My work falls into two camps: creating reusable UI components, data-driven interactives, and microsites for a public audience across all screens; and developing internal tooling to improve the way McKinsey publishes content online.
+I'm currently working as a front-end engineer at [McKinsey.com](https://www.mckinsey.com). My work falls into two camps: creating reusable UI components, data-driven interactives, and microsites for a public audience across all screens; and developing internal tooling to improve the way McKinsey publishes interactive articles.
 
 Previously, I worked as a front-end engineer and graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
