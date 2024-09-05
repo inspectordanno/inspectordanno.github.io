@@ -25,9 +25,9 @@ I'm currently working as a front-end engineer at [McKinsey.com](https://www.mcki
 
 Previously, I worked as a front-end engineer and graphics reporter at [The Wall Street Journal](https://www.wsj.com), where I worked with coders, designers, and writers to visualize the news.
 
-My alphabet-soup tech stack homies: HTML, CSS, JavaScript, React, Svelte, D3, Node.js, Github Actions
+My tech stack homies: HTML, CSS, JavaScript, React, Svelte, D3, Node.js, and Github Actions.
 
-Technologies I've used in the past that I'd love to get more experience with: GraphQL, Python, and Docker.
+Technologies I've used in the past that I'm not perfect in but could get up to speed fairly quickly: GraphQL, Python, TypeScript, and Docker.
 
 I have a M.F.A. in [Information Design and Data Visualization](https://www.northeastern.edu/visualization/) from Northeastern University and a B.A. in Government from Cornell.
 
