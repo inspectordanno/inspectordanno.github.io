@@ -122,6 +122,7 @@
       "keywords": [
         "English",
         "JavaScript",
+        "TypeScript",
         "Python",
         "R"
       ]
@@ -137,8 +138,7 @@
         "Svelte",
         "D3",
         "Webpack",
-        "P5 (Processing)",
-        "Gatsby"
+        "Vite",
       ]
     },
     { "name": "Back-End Development",
@@ -161,20 +161,25 @@
   "languages": [],
   "interests": [
     {
-      "name": "Writing",
-      "keywords": ["Journaling", "Interactive Fiction"]
+      "name": "Writing"
     },
     {
       "name": "Music",
-      "keywords": ["Guitar", "Piano", "Vinyl"]
+      "keywords": ["Guitar", "Vinyl"]
     },
     {
       "name": "Reading",
-      "keywords": ["Novels", "News"]
+      "keywords": ["Novels", "Popular science", "News (ugh)"]
     },
     {
       "name": "Watching sports",
       "keywords": ["Agonizing teams from Philadelphia"]
+    },
+    {
+      "name": "Pickleball"
+    },
+    {
+      "name": "Chess"
     }
   ],
   "references": []
