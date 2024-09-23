@@ -2,7 +2,7 @@
 layout:      project
 title:       In Pennies We Trust, But Should We?
 date:        14 Sept 2021
- screenshot:
+screenshot:
   src:       /img/penny/penny.gif
   # srcset:
   #   1920w:   /img/media/media_1920.png
