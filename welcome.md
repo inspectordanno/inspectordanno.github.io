@@ -7,15 +7,15 @@ permalink: /
 menu: false
 # title: Howdy!
 selected_projects:
+- _projects/mckinsey_books.md
+- _projects/mckinsey_hard_stuff.md
+- _projects/mckinsey_year_in_review.md
 - _projects/future_of_work.md
 - _projects/fashion.md
 - _projects/life_purpose.md
 - _projects/covid_scenarios.md
 - _projects/pennies.md
 - _projects/beer.md
-- _projects/conservation.md
-- _projects/college.md
-- _projects/food_waste.md
 more_projects: projects.md
 featured: false
 ---
