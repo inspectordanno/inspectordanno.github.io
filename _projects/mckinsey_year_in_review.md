@@ -3,7 +3,7 @@ layout:      project
 title:       McKinsey's 2023 year in review
 date:        18 Sept 2024
 screenshot:
-  src:         /img/covid/covid.gif
+  src:         /img/year-in-review/year-in-review.gif
   # srcset:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png
