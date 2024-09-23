@@ -3,7 +3,7 @@ layout:      project
 title:       McKinsey’s 2024 annual book recommendations
 date:        21 Sept 2024
 screenshot:
-  src:         /img/covid/covid.gif
+  src:         /img/books/books.gif
   # srcset:
   #   1920w:   /img/media/media_1920.png
   #   960w:    /img/media/media_960.png
