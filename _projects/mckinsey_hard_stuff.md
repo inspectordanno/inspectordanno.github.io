@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       McKinsey’s The hard stuff\: Navigating the physical realities of the energy transition
+title:       Navigating the physical realities of the energy transition
 date:        21 Sept 2024
 screenshot:
   src:         /img/covid/covid.gif
