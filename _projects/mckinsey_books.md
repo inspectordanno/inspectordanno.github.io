@@ -21,4 +21,4 @@ This project features a grid of content, with the option to dive deeper into ind
 
 Figuring out the UX and behavior of this tool was so fun and iterative. It was a true dev-design collaboration, and also helped me flex some back-end muscles. I learned about balance of building a product that provides just enough customization to ensure flexibility, while not enabling too much freedom that would require handling every single edge case. Enforcing boundaries in UX design can be a good thing!
 
-Also see [The Hard Stuff](https://www.mckinsey.com/mgi/our-research/the-hard-stuff-navigating-the-physical-realities-of-the-energy-transition) for another example of this template.
+For the 2025 edition, we also created backend database recommendation platform where the user can save books to a reading list, filter and sort by author/topic, and generate dynamic graphics for download. It's all React and TypeScript on the front-end and is powered by a really sweet Node.js open-source CMS called Strapi.

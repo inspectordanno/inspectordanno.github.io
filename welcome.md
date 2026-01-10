@@ -8,7 +8,6 @@ menu: false
 # title: Howdy!
 selected_projects:
 - _projects/mckinsey_books.md
-- _projects/mckinsey_energy.md
 - _projects/mckinsey_year_in_review.md
 - _projects/future_of_work.md
 - _projects/fashion.md
